@@ -1,0 +1,35 @@
+name: Atualizar competência SIGTAP
+
+on:
+  schedule:
+    - cron: '0 15 * * *'   # todo dia às 12h de Brasília; só age quando o DATASUS publica competência nova
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verificar DATASUS e gerar base se houver competência nova
+        run: python3 scripts/atualizar.py
+
+      - name: Publicar
+        run: |
+          git config user.name "sigtap-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "sem mudanças"
+          else
+            COMP=$(python3 -c "import json;print(json.load(open('manifest.json'))['competencia'])")
+            git commit -m "Competência $COMP"
+            git push
+          fi
