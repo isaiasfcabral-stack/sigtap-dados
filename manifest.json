@@ -1,0 +1,14 @@
+{
+ "competencia": "202606",
+ "publicadoEm": "2026-07-05",
+ "base": {
+  "url": "https://isaiasfcabral-stack.github.io/sigtap-dados/dados/sigtap_data_202606.json",
+  "sha256": "841708458fc43a3aa97ba5937c5da50511ac7082fa3c9c3949d3c0c67c399369",
+  "bytes": 20241743,
+  "itens": 4994
+ },
+ "delta": null,
+ "historico": [
+  "202606"
+ ]
+}
