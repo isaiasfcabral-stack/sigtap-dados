@@ -17,6 +17,9 @@ BASE_URL = os.environ.get("BASE_URL", "https://isaiasfcabral-stack.github.io/sig
 DOWNLOAD_PAGE = "http://sigtap.datasus.gov.br/tabela-unificada/app/download.jsp"
 UA = {"User-Agent": "Mozilla/5.0 (sigtap-dados; atualizacao mensal de dados publicos)"}
 
+class DatasusIndisponivel(Exception):
+    pass
+
 def http_get(url, tentativas=3, timeout=180):
     for i in range(tentativas):
         try:
@@ -25,8 +28,8 @@ def http_get(url, tentativas=3, timeout=180):
                 return r.read()
         except Exception as e:
             print("tentativa %d falhou: %s" % (i + 1, e))
-            time.sleep(20 * (i + 1))
-    raise SystemExit("não consegui baixar: %s" % url)
+            time.sleep(15 * (i + 1))
+    raise DatasusIndisponivel(url)
 
 def main():
     manifest = json.load(open(os.path.join(RAIZ, "manifest.json"), encoding="utf-8"))
@@ -36,14 +39,22 @@ def main():
     # execução, porque o arquivo de 20 MB não sobe pelo navegador), gera ela agora.
     base_atual_path = os.path.join(RAIZ, "dados", "sigtap_data_%s.json" % atual)
     if not os.path.exists(base_atual_path) and "--zip" not in sys.argv:
-        pagina = http_get(DOWNLOAD_PAGE, timeout=60).decode("latin-1", "replace")
+        try:
+            pagina = http_get(DOWNLOAD_PAGE, timeout=60).decode("latin-1", "replace")
+        except DatasusIndisponivel:
+            print("AVISO: DATASUS indisponível para o bootstrap; tento na próxima execução.")
+            return
         links = re.findall(r'href="([^"]*TabelaUnificada_(\d{6})_v\d+\.zip)"', pagina)
         alvo = [h for h, c in links if c == atual]
         if alvo:
             href = alvo[0]
             url_zip = href if href.startswith("http") else ("http://sigtap.datasus.gov.br" + href if href.startswith("/") else "http://sigtap.datasus.gov.br/tabela-unificada/app/" + href)
             print("bootstrap: gerando base %s que falta no repo" % atual)
-            blob = http_get(url_zip)
+            try:
+                blob = http_get(url_zip)
+            except DatasusIndisponivel:
+                print("AVISO: zip do DATASUS indisponível para o bootstrap; tento na próxima execução.")
+                return
             zb = os.path.join(RAIZ, "TabelaUnificada_%s.zip" % atual)
             open(zb, "wb").write(blob)
             subprocess.check_call([sys.executable, os.path.join(RAIZ, "scripts", "build_sigtap_data.py"), zb, base_atual_path])
@@ -65,10 +76,15 @@ def main():
             raise SystemExit("nome do zip fora do padrão TabelaUnificada_AAAAMM_vX.zip")
         nova = m.group(1)
     else:
-        pagina = http_get(DOWNLOAD_PAGE, timeout=60).decode("latin-1", "replace")
+        try:
+            pagina = http_get(DOWNLOAD_PAGE, timeout=60).decode("latin-1", "replace")
+        except DatasusIndisponivel:
+            print("AVISO: portal do DATASUS indisponível agora; tento de novo na próxima execução.")
+            return
         links = re.findall(r'href="([^"]*TabelaUnificada_(\d{6})_v\d+\.zip)"', pagina)
         if not links:
-            raise SystemExit("nenhum link de TabelaUnificada encontrado na página do DATASUS")
+            print("AVISO: página do DATASUS veio sem os links (instabilidade conhecida); tento de novo na próxima execução.")
+            return
         href, nova = max(links, key=lambda x: x[1])
         if nova <= atual:
             print("nada novo: DATASUS está em %s, repo está em %s" % (nova, atual))
