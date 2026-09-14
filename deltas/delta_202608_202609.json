@@ -1,0 +1,1357 @@
+{
+ "de": "202608",
+ "para": "202609",
+ "resumo": {
+  "incluidos": 0,
+  "excluidos": 0,
+  "reajustados": 0,
+  "alterados": 103
+ },
+ "incluidos": [],
+ "excluidos": [],
+ "reajustados": [],
+ "alterados": [
+  {
+   "codigo": "0604380020",
+   "nome": "ETANERCEPTE 25 MG INJETÁVEL (POR FRASCO-AMPOLA OU SERINGA PREENCHIDA)",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "O PROCEDIMENTO É INDICADO PARA PACIENTES PEDIÁTRICOS. NO CASO DE PACIENTES ADULTOS VINCULADOS AOS PCDT DE ARTRITE IDIOPÁTICA JUVENIL OU PSORÍASE, A UTILIZAÇÃO É RESTRITA ÀQUELES COM PESO CORPORAL DE ATÉ 62,5 KG."
+    },
+    {
+     "campo": "idadeMax",
+     "rotulo": "Idade máxima",
+     "antes": 18,
+     "agora": 130
+    }
+   ]
+  },
+  {
+   "codigo": "0204030188",
+   "nome": "MAMOGRAFIA BILATERAL PARA RASTREAMENTO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0204060028",
+   "nome": "DENSITOMETRIA OSSEA DUO-ENERGETICA DE COLUNA (VERTEBRAS LOMBARES E/OU FEMUR)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205010032",
+   "nome": "ECOCARDIOGRAFIA TRANSTORACICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205010040",
+   "nome": "ULTRASSONOGRAFIA DOPPLER COLORIDO DE VASOS",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205010059",
+   "nome": "ULTRASSONOGRAFIA DOPPLER DE FLUXO OBSTETRICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020038",
+   "nome": "ULTRASSONOGRAFIA DE ABDÔMEN SUPERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020046",
+   "nome": "ULTRASSONOGRAFIA DE ABDOMEN TOTAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020054",
+   "nome": "ULTRASSONOGRAFIA DE APARELHO URINÁRIO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020062",
+   "nome": "ULTRASSONOGRAFIA DE ARTICULACAO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020070",
+   "nome": "ULTRASSONOGRAFIA DE BOLSA ESCROTAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020089",
+   "nome": "ULTRASSONOGRAFIA DE GLOBO OCULAR / ORBITA (MONOCULAR)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020097",
+   "nome": "ULTRASSONOGRAFIA MAMARIA BILATERAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020100",
+   "nome": "ULTRASSONOGRAFIA DE PROSTATA POR VIA ABDOMINAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020119",
+   "nome": "ULTRASSONOGRAFIA DE PROSTATA (VIA TRANSRETAL)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020127",
+   "nome": "ULTRASSONOGRAFIA DE TIREOIDE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020135",
+   "nome": "ULTRASSONOGRAFIA DE TORAX (EXTRACARDIACA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020143",
+   "nome": "ULTRASSONOGRAFIA OBSTETRICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020151",
+   "nome": "ULTRASSONOGRAFIA OBSTETRICA C/ DOPPLER COLORIDO E PULSADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020160",
+   "nome": "ULTRASSONOGRAFIA PELVICA (GINECOLOGICA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020178",
+   "nome": "ULTRASSONOGRAFIA TRANSFONTANELA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020186",
+   "nome": "ULTRASSONOGRAFIA TRANSVAGINAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0205020224",
+   "nome": "ELASTOGRAFIA HEPÁTICA ULTRASSÔNICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010010",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE COLUNA CERVICAL C/ OU S/ CONTRASTE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010028",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE COLUNA LOMBO-SACRA C/ OU S/ CONTRASTE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010036",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE COLUNA TORACICA C/ OU S/ CONTRASTE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010044",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE FACE / SEIOS DA FACE / ARTICULACOES TEMPORO-MANDIBULARES",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010052",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DO PESCOCO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010060",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE SELA TURCICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010079",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DO CRANIO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206020015",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE ARTICULACOES DE MEMBRO SUPERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206020023",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE SEGMENTOS APENDICULARES - (BRACO, ANTEBRAÇO, MÃO, COXA, PERNA, PÉ)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206020031",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE TORAX",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206030010",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE ABDOMEN SUPERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206030029",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE ARTICULACOES DE MEMBRO INFERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206030037",
+   "nome": "TOMOGRAFIA COMPUTADORIZADA DE PELVE / BACIA / ABDOMEN INFERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0206030053",
+   "nome": "CONTRASTE PARA RESSONÂNCIA MAGNÉTICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010013",
+   "nome": "ANGIORESSONANCIA CEREBRAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010021",
+   "nome": "RESSONANCIA MAGNETICA DE ARTICULACAO TEMPORO-MANDIBULAR (BILATERAL)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010030",
+   "nome": "RESSONANCIA MAGNETICA DE COLUNA CERVICAL/PESCOÇO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010048",
+   "nome": "RESSONANCIA MAGNETICA DE COLUNA LOMBO-SACRA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010056",
+   "nome": "RESSONANCIA MAGNETICA DE COLUNA TORACICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010064",
+   "nome": "RESSONANCIA MAGNETICA DE CRANIO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207010072",
+   "nome": "RESSONANCIA MAGNETICA DE SELA TURCICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207020019",
+   "nome": "RESSONANCIA MAGNETICA DE CORACAO / AORTA C/ CINE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207020027",
+   "nome": "RESSONANCIA MAGNETICA DE MEMBRO SUPERIOR (UNILATERAL)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207020035",
+   "nome": "RESSONANCIA MAGNETICA DE TORAX",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207020060",
+   "nome": "RESSONÂNCIA MAGNÉTICA DA MAMA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207030014",
+   "nome": "RESSONANCIA MAGNETICA DE ABDOMEN SUPERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207030022",
+   "nome": "RESSONANCIA MAGNETICA DE BACIA / PELVE / ABDOMEN INFERIOR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207030030",
+   "nome": "RESSONANCIA MAGNETICA DE MEMBRO INFERIOR (UNILATERAL)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207030049",
+   "nome": "RESSONANCIA MAGNETICA DE VIAS BILIARES/COLANGIORRESSONANCIA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0207030057",
+   "nome": "RESSONÂNCIA MAGNÉTICA MULTIPARAMÉTRICA DA PRÓSTATA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010017",
+   "nome": "CINTILOGRAFIA DE CORACAO C/ GALIO 67",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010025",
+   "nome": "CINTILOGRAFIA DE MIOCARDIO P/ AVALIACAO DA PERFUSAO EM SITUACAO DE ESTRESSE (MINIMO 3 PROJECOES)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010033",
+   "nome": "CINTILOGRAFIA DE MIOCARDIO P/ AVALIACAO DA PERFUSAO EM SITUACAO DE REPOUSO (MINIMO 3 PROJECOES)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010041",
+   "nome": "CINTILOGRAFIA DE MIOCARDIO P/ LOCALIZACAO DE NECROSE (MINIMO 3 PROJECOES )",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010050",
+   "nome": "CINTILOGRAFIA P/ AVALIACAO DE FLUXO SANGUINEO DE EXTREMIDADES",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010068",
+   "nome": "CINTILOGRAFIA P/ QUANTIFICACAO DE SHUNT EXTRACARDIACO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010076",
+   "nome": "CINTILOGRAFIA SINCRONIZADA DE CAMARAS CARDIACAS EM SITUACAO DE ESFORCO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208010084",
+   "nome": "CINTILOGRAFIA SINCRONIZADA DE CAMARAS CARDIACAS EM SITUACAO DE REPOUSO (VENTRICULOGRAFIA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020012",
+   "nome": "CINTILOGRAFIA DE FIGADO E BACO (MINIMO 5 IMAGENS)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020020",
+   "nome": "CINTILOGRAFIA DE FIGADO E VIAS BILIARES",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020039",
+   "nome": "CINTILOGRAFIA DE GLANDULAS SALIVARES C/ OU S/ ESTIMULO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020055",
+   "nome": "CINTILOGRAFIA P/ ESTUDO DE TRANSITO ESOFAGICO (LIQUIDO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020063",
+   "nome": "CINTILOGRAFIA P/ ESTUDO DE TRANSITO ESOFAGICO (SEMI-SOLIDO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020071",
+   "nome": "CINTILOGRAFIA P/ ESTUDO DE TRANSITO GASTRICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020080",
+   "nome": "CINTILOGRAFIA P/ PESQUISA DE DIVERTICULOSE DE MECKEL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020098",
+   "nome": "CINTILOGRAFIA P/ PESQUISA DE HEMORRAGIA DIGESTIVA ATIVA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020101",
+   "nome": "CINTILOGRAFIA P/ PESQUISA DE HEMORRAGIA DIGESTIVA NAO ATIVA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020110",
+   "nome": "CINTILOGRAFIA P/ PESQUISA DE REFLUXO GASTRO-ESOFAGICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208020128",
+   "nome": "IMUNO-CINTILOGRAFIA (ANTICORPO MONOCLONAL)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208030018",
+   "nome": "CINTILOGRAFIA DE PARATIREOIDES",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208030026",
+   "nome": "CINTILOGRAFIA DE TIREÓIDE COM OU SEM CAPTAÇÃO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208030034",
+   "nome": "CINTILOGRAFIA DE TIREOIDE C/ TESTE DE SUPRESSAO / ESTIMULO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208030042",
+   "nome": "CINTILOGRAFIA P/ PESQUISA DO CORPO INTEIRO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208040021",
+   "nome": "CINTILOGRAFIA DE RIM C/ GALIO 67",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208040030",
+   "nome": "CINTILOGRAFIA DE TESTICULO E BOLSA ESCROTAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208040056",
+   "nome": "CINTILOGRAFIA RENAL/RENOGRAMA (QUALITATIVA E/OU QUANTITATIVA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208040064",
+   "nome": "CISTOCINTILOGRAFIA DIRETA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208040072",
+   "nome": "CISTOCINTILOGRAFIA INDIRETA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208050019",
+   "nome": "CINTILOGRAFIA DE ARTICULACOES E/OU EXTREMIDADES E/OU OSSO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208050035",
+   "nome": "CINTILOGRAFIA DE OSSOS COM OU SEM FLUXO SANGUÍNEO (CORPO INTEIRO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208050043",
+   "nome": "CINTILOGRAFIA DE SEGMENTO OSSEO C/ GALIO 67",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208060014",
+   "nome": "CINTILOGRAFIA DE PERFUSAO CEREBRAL C/ TALIO (SPCTO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208060022",
+   "nome": "CISTERNOCINTILOGRAFIA (INCLUINDO PESQUISA E/OU AVALIACAO DO TRANSITO LIQUORICO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208070010",
+   "nome": "CINTILOGRAFIA DE PULMAO C/ GALIO 67",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208070028",
+   "nome": "CINTILOGRAFIA DE PULMÃO P/ PESQUISA DE ASPIRAÇÃO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208070036",
+   "nome": "CINTILOGRAFIA DE PULMAO POR INALACAO (MINIMO 2 PROJECOES)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208070044",
+   "nome": "CINTILOGRAFIA DE PULMAO POR PERFUSAO (MINIMO 4 PROJECOES)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208080015",
+   "nome": "CINTILOGRAFIA DE SISTEMA RETICULO-ENDOTELIAL (MEDULA OSSEA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208080040",
+   "nome": "LINFOCINTILOGRAFIA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208090010",
+   "nome": "CINTILOGRAFIA DE CORPO INTEIRO C/ GALIO 67 P/ PESQUISA DE NEOPLASIAS",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208090029",
+   "nome": "CINTILOGRAFIA DE GLANDULA LACRIMAL (DACRIOCINTILOGRAFIA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0208090037",
+   "nome": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0209010010",
+   "nome": "COLANGIOPANCREATOGRAFIA RETROGRADA (VIA ENDOSCÓPICA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0209010029",
+   "nome": "COLONOSCOPIA (COLOSCOPIA)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0209010037",
+   "nome": "ESOFAGOGASTRODUODENOSCOPIA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0211020010",
+   "nome": "CATETERISMO CARDIACO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "0801 / 0802 / 0803 / 3805",
+     "agora": "0801 / 0802 / 0803 / 3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0211020028",
+   "nome": "CATETERISMO CARDIACO EM PEDIATRIA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "0801 / 0802 / 0803 / 3805",
+     "agora": "0801 / 0802 / 0803 / 3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0501080090",
+   "nome": "ULTRASSONOGRAFIA DE ORGAO TRANSPLANTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0604340087",
+   "nome": "TACROLIMO 0,3 MG/G POMADA DERMATOLÓGICA (10 G)",
+   "mudancas": [
+    {
+     "campo": "qtMaxExecucao",
+     "rotulo": "Qtd. máxima de execução",
+     "antes": 2,
+     "agora": 3
+    }
+   ]
+  },
+  {
+   "codigo": "0604840020",
+   "nome": "MEPOLIZUMABE 100 MG/ML SOLUÇÃO INJETÁVEL",
+   "mudancas": [
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 18,
+     "agora": 12
+    }
+   ]
+  }
+ ]
+}

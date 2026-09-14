@@ -1,14 +1,19 @@
 {
- "competencia": "202606",
- "publicadoEm": "2026-07-05",
+ "competencia": "202609",
+ "publicadoEm": "2026-09-14",
  "base": {
-  "url": "https://isaiasfcabral-stack.github.io/sigtap-dados/dados/sigtap_data_202606.json",
-  "sha256": "841708458fc43a3aa97ba5937c5da50511ac7082fa3c9c3949d3c0c67c399369",
-  "bytes": 20241743,
-  "itens": 4994
+  "url": "https://isaiasfcabral-stack.github.io/sigtap-dados/dados/sigtap_data_202609.json",
+  "sha256": "f12c7ec0af0af17dd993378067d3309eca8e2d762c615e52e2298d5e3cf44df4",
+  "bytes": 20335012,
+  "itens": 5023
  },
- "delta": null,
+ "delta": {
+  "url": "https://isaiasfcabral-stack.github.io/sigtap-dados/deltas/delta_202608_202609.json",
+  "de": "202608",
+  "para": "202609"
+ },
  "historico": [
-  "202606"
+  "202608",
+  "202609"
  ]
 }

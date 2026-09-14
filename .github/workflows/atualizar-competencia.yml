@@ -18,8 +18,27 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Testes da descoberta de competência
+        run: python3 scripts/tests/test_atualizar.py
+
       - name: Verificar DATASUS e gerar base se houver competência nova
         run: python3 scripts/atualizar.py
+
+      - name: Conferir que o manifest aponta para arquivo existente
+        # o manifest já apontou para um dados/*.json que nunca foi commitado:
+        # o app via "competência nova" e baixava um HTTP 404
+        run: |
+          python3 - <<'PY'
+          import json, os, sys
+          m = json.load(open('manifest.json', encoding='utf-8'))
+          alvo = os.path.join('dados', os.path.basename(m['base']['url']))
+          if not os.path.exists(alvo):
+              sys.exit('ERRO: manifest anuncia %s, que não existe no repo' % alvo)
+          if os.path.getsize(alvo) != m['base']['bytes']:
+              sys.exit('ERRO: %s tem %d bytes, manifest diz %d'
+                       % (alvo, os.path.getsize(alvo), m['base']['bytes']))
+          print('ok: manifest %s -> %s (%d bytes)' % (m['competencia'], alvo, m['base']['bytes']))
+          PY
 
       - name: Publicar
         run: |

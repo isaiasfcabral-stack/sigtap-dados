@@ -1,0 +1,1820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Download de Competências da Tabela Unificada</title>
+    <link>http://sigtap.datasus.gov.br/tabela-unificada/app/download.jsp</link>
+    <description>Arquivos para download da Tabela de Procedimentos, Medicamentos e OPM do SUS</description>
+    <copyright>http://creativecommons.org/licenses/by/3.0/deed.pt</copyright>
+    <pubDate>Wed, 08 Jul 2026 15:20:48 GMT</pubDate>
+    <managingEditor>Ministério da Saúde</managingEditor>
+    <dc:date>2026-07-08T15:20:48Z</dc:date>
+    <dc:rights>http://creativecommons.org/licenses/by/3.0/deed.pt</dc:rights>
+    <image>
+      <title>Competências da Tabela Unficada</title>
+      <url>http://sigtap.datasus.gov.br/tabela-unificada/images/48/sigtap-desktop.png</url>
+      <link>http://sigtap.datasus.gov.br/</link>
+      <description>Competências da Tabela Unficada</description>
+    </image>
+    <item>
+      <title>Competência 09/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202609_v2609111202.zip</link>
+      <description>Liberada a competência de 09/2026 da Tabela Unificada.</description>
+      <pubDate>Fri, 11 Sep 2026 15:03:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202609_v2609111202.zip</guid>
+      <dc:date>2026-09-11T15:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202608_v2608141139.zip</link>
+      <description>Liberada a competência de 08/2026 da Tabela Unificada.</description>
+      <pubDate>Fri, 14 Aug 2026 14:40:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202608_v2608141139.zip</guid>
+      <dc:date>2026-08-14T14:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202607_v2607101010.zip</link>
+      <description>Liberada a competência de 07/2026 da Tabela Unificada.</description>
+      <pubDate>Fri, 10 Jul 2026 13:10:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202607_v2607101010.zip</guid>
+      <dc:date>2026-07-10T13:10:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202606_v2606091427.zip</link>
+      <description>Liberada a competência de 06/2026 da Tabela Unificada.</description>
+      <pubDate>Tue, 09 Jun 2026 17:28:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202606_v2606091427.zip</guid>
+      <dc:date>2026-06-09T17:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202605_v2605210940.zip</link>
+      <description>Liberada a competência de 05/2026 da Tabela Unificada.</description>
+      <pubDate>Thu, 21 May 2026 12:41:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202605_v2605210940.zip</guid>
+      <dc:date>2026-05-21T12:41:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202604_v2605181544.zip</link>
+      <description>Liberada a competência de 04/2026 da Tabela Unificada.</description>
+      <pubDate>Mon, 18 May 2026 18:44:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202604_v2605181544.zip</guid>
+      <dc:date>2026-05-18T18:44:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202603_v2605181534.zip</link>
+      <description>Liberada a competência de 03/2026 da Tabela Unificada.</description>
+      <pubDate>Mon, 18 May 2026 18:35:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202603_v2605181534.zip</guid>
+      <dc:date>2026-05-18T18:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202602_v2602261644.zip</link>
+      <description>Liberada a competência de 02/2026 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202602_v2602261644.zip</guid>
+      <dc:date>2026-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2026</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202601_v2602261640.zip</link>
+      <description>Liberada a competência de 01/2026 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202601_v2602261640.zip</guid>
+      <dc:date>2026-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202512_v2602261637.zip</link>
+      <description>Liberada a competência de 12/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202512_v2602261637.zip</guid>
+      <dc:date>2026-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202511_v2602261636.zip</link>
+      <description>Liberada a competência de 11/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202511_v2602261636.zip</guid>
+      <dc:date>2026-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202510_v2602261632.zip</link>
+      <description>Liberada a competência de 10/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202510_v2602261632.zip</guid>
+      <dc:date>2026-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202509_v2602261623.zip</link>
+      <description>Liberada a competência de 09/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202509_v2602261623.zip</guid>
+      <dc:date>2026-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202508_v2509181304.zip</link>
+      <description>Liberada a competência de 08/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 18 Sep 2025 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202508_v2509181304.zip</guid>
+      <dc:date>2025-09-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202507_v2509181303.zip</link>
+      <description>Liberada a competência de 07/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 18 Sep 2025 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202507_v2509181303.zip</guid>
+      <dc:date>2025-09-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202506_v2506061904.zip</link>
+      <description>Liberada a competência de 06/2025 da Tabela Unificada.</description>
+      <pubDate>Fri, 06 Jun 2025 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202506_v2506061904.zip</guid>
+      <dc:date>2025-06-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202505_v2505061938.zip</link>
+      <description>Liberada a competência de 05/2025 da Tabela Unificada.</description>
+      <pubDate>Tue, 06 May 2025 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202505_v2505061938.zip</guid>
+      <dc:date>2025-05-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202504_v2504031832.zip</link>
+      <description>Liberada a competência de 04/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 03 Apr 2025 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202504_v2504031832.zip</guid>
+      <dc:date>2025-04-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202503_v2503101901.zip</link>
+      <description>Liberada a competência de 03/2025 da Tabela Unificada.</description>
+      <pubDate>Mon, 10 Mar 2025 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202503_v2503101901.zip</guid>
+      <dc:date>2025-03-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202502_v2502131336.zip</link>
+      <description>Liberada a competência de 02/2025 da Tabela Unificada.</description>
+      <pubDate>Thu, 13 Feb 2025 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202502_v2502131336.zip</guid>
+      <dc:date>2025-02-13T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2025</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202501_v2501172128.zip</link>
+      <description>Liberada a competência de 01/2025 da Tabela Unificada.</description>
+      <pubDate>Fri, 17 Jan 2025 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202501_v2501172128.zip</guid>
+      <dc:date>2025-01-17T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202412_v2501172121.zip</link>
+      <description>Liberada a competência de 12/2024 da Tabela Unificada.</description>
+      <pubDate>Fri, 17 Jan 2025 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202412_v2501172121.zip</guid>
+      <dc:date>2025-01-17T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202411_v2411071955.zip</link>
+      <description>Liberada a competência de 11/2024 da Tabela Unificada.</description>
+      <pubDate>Thu, 07 Nov 2024 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202411_v2411071955.zip</guid>
+      <dc:date>2024-11-07T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202410_v2410041744.zip</link>
+      <description>Liberada a competência de 10/2024 da Tabela Unificada.</description>
+      <pubDate>Fri, 04 Oct 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202410_v2410041744.zip</guid>
+      <dc:date>2024-10-04T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202409_v2409111422.zip</link>
+      <description>Liberada a competência de 09/2024 da Tabela Unificada.</description>
+      <pubDate>Wed, 11 Sep 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202409_v2409111422.zip</guid>
+      <dc:date>2024-09-11T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202408_v2409111413.zip</link>
+      <description>Liberada a competência de 08/2024 da Tabela Unificada.</description>
+      <pubDate>Wed, 11 Sep 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202408_v2409111413.zip</guid>
+      <dc:date>2024-09-11T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202407_v2408022004.zip</link>
+      <description>Liberada a competência de 07/2024 da Tabela Unificada.</description>
+      <pubDate>Fri, 02 Aug 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202407_v2408022004.zip</guid>
+      <dc:date>2024-08-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202406_v2406131920.zip</link>
+      <description>Liberada a competência de 06/2024 da Tabela Unificada.</description>
+      <pubDate>Thu, 13 Jun 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202406_v2406131920.zip</guid>
+      <dc:date>2024-06-13T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202405_v2406111315.zip</link>
+      <description>Liberada a competência de 05/2024 da Tabela Unificada.</description>
+      <pubDate>Tue, 11 Jun 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202405_v2406111315.zip</guid>
+      <dc:date>2024-06-11T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202404_v2404031505.zip</link>
+      <description>Liberada a competência de 04/2024 da Tabela Unificada.</description>
+      <pubDate>Wed, 03 Apr 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202404_v2404031505.zip</guid>
+      <dc:date>2024-04-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202403_v2403141447.zip</link>
+      <description>Liberada a competência de 03/2024 da Tabela Unificada.</description>
+      <pubDate>Thu, 14 Mar 2024 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202403_v2403141447.zip</guid>
+      <dc:date>2024-03-14T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202402_v2402072041.zip</link>
+      <description>Liberada a competência de 02/2024 da Tabela Unificada.</description>
+      <pubDate>Wed, 07 Feb 2024 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202402_v2402072041.zip</guid>
+      <dc:date>2024-02-07T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2024</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202401_v2402072029.zip</link>
+      <description>Liberada a competência de 01/2024 da Tabela Unificada.</description>
+      <pubDate>Wed, 07 Feb 2024 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202401_v2402072029.zip</guid>
+      <dc:date>2024-02-07T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202312_v2401192004.zip</link>
+      <description>Liberada a competência de 12/2023 da Tabela Unificada.</description>
+      <pubDate>Fri, 19 Jan 2024 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202312_v2401192004.zip</guid>
+      <dc:date>2024-01-19T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202311_v2401191958.zip</link>
+      <description>Liberada a competência de 11/2023 da Tabela Unificada.</description>
+      <pubDate>Fri, 19 Jan 2024 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202311_v2401191958.zip</guid>
+      <dc:date>2024-01-19T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202310_v2401191955.zip</link>
+      <description>Liberada a competência de 10/2023 da Tabela Unificada.</description>
+      <pubDate>Fri, 19 Jan 2024 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202310_v2401191955.zip</guid>
+      <dc:date>2024-01-19T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202309_v2310091912.zip</link>
+      <description>Liberada a competência de 09/2023 da Tabela Unificada.</description>
+      <pubDate>Mon, 09 Oct 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202309_v2310091912.zip</guid>
+      <dc:date>2023-10-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202308_v2308011908.zip</link>
+      <description>Liberada a competência de 08/2023 da Tabela Unificada.</description>
+      <pubDate>Tue, 01 Aug 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202308_v2308011908.zip</guid>
+      <dc:date>2023-08-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202307_v2307181839.zip</link>
+      <description>Liberada a competência de 07/2023 da Tabela Unificada.</description>
+      <pubDate>Tue, 18 Jul 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202307_v2307181839.zip</guid>
+      <dc:date>2023-07-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202306_v2306071954.zip</link>
+      <description>Liberada a competência de 06/2023 da Tabela Unificada.</description>
+      <pubDate>Wed, 07 Jun 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202306_v2306071954.zip</guid>
+      <dc:date>2023-06-07T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202305_v2305031818.zip</link>
+      <description>Liberada a competência de 05/2023 da Tabela Unificada.</description>
+      <pubDate>Wed, 03 May 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202305_v2305031818.zip</guid>
+      <dc:date>2023-05-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202304_v2304051404.zip</link>
+      <description>Liberada a competência de 04/2023 da Tabela Unificada.</description>
+      <pubDate>Wed, 05 Apr 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202304_v2304051404.zip</guid>
+      <dc:date>2023-04-05T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202303_v2303241709.zip</link>
+      <description>Liberada a competência de 03/2023 da Tabela Unificada.</description>
+      <pubDate>Fri, 24 Mar 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202303_v2303241709.zip</guid>
+      <dc:date>2023-03-24T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202302_v2303011819.zip</link>
+      <description>Liberada a competência de 02/2023 da Tabela Unificada.</description>
+      <pubDate>Wed, 01 Mar 2023 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202302_v2303011819.zip</guid>
+      <dc:date>2023-03-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2023</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202301_v2301031530.zip</link>
+      <description>Liberada a competência de 01/2023 da Tabela Unificada.</description>
+      <pubDate>Tue, 03 Jan 2023 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202301_v2301031530.zip</guid>
+      <dc:date>2023-01-03T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202212_v2212051647.zip</link>
+      <description>Liberada a competência de 12/2022 da Tabela Unificada.</description>
+      <pubDate>Mon, 05 Dec 2022 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202212_v2212051647.zip</guid>
+      <dc:date>2022-12-05T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202211_v2211011719.zip</link>
+      <description>Liberada a competência de 11/2022 da Tabela Unificada.</description>
+      <pubDate>Tue, 01 Nov 2022 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202211_v2211011719.zip</guid>
+      <dc:date>2022-11-01T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202210_v2210031108.zip</link>
+      <description>Liberada a competência de 10/2022 da Tabela Unificada.</description>
+      <pubDate>Mon, 03 Oct 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202210_v2210031108.zip</guid>
+      <dc:date>2022-10-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202209_v2209051121.zip</link>
+      <description>Liberada a competência de 09/2022 da Tabela Unificada.</description>
+      <pubDate>Mon, 05 Sep 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202209_v2209051121.zip</guid>
+      <dc:date>2022-09-05T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202208_v2208081620.zip</link>
+      <description>Liberada a competência de 08/2022 da Tabela Unificada.</description>
+      <pubDate>Mon, 08 Aug 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202208_v2208081620.zip</guid>
+      <dc:date>2022-08-08T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202207_v2208241425.zip</link>
+      <description>Liberada a competência de 07/2022 da Tabela Unificada.</description>
+      <pubDate>Wed, 24 Aug 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202207_v2208241425.zip</guid>
+      <dc:date>2022-08-24T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202206_v2206281712.zip</link>
+      <description>Liberada a competência de 06/2022 da Tabela Unificada.</description>
+      <pubDate>Tue, 28 Jun 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202206_v2206281712.zip</guid>
+      <dc:date>2022-06-28T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202205_v2205040851.zip</link>
+      <description>Liberada a competência de 05/2022 da Tabela Unificada.</description>
+      <pubDate>Wed, 04 May 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202205_v2205040851.zip</guid>
+      <dc:date>2022-05-04T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202204_v2205031645.zip</link>
+      <description>Liberada a competência de 04/2022 da Tabela Unificada.</description>
+      <pubDate>Tue, 03 May 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202204_v2205031645.zip</guid>
+      <dc:date>2022-05-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202203_v2203031643.zip</link>
+      <description>Liberada a competência de 03/2022 da Tabela Unificada.</description>
+      <pubDate>Thu, 03 Mar 2022 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202203_v2203031643.zip</guid>
+      <dc:date>2022-03-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202202_v2202101642.zip</link>
+      <description>Liberada a competência de 02/2022 da Tabela Unificada.</description>
+      <pubDate>Thu, 10 Feb 2022 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202202_v2202101642.zip</guid>
+      <dc:date>2022-02-10T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2022</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202201_v2201180947.zip</link>
+      <description>Liberada a competência de 01/2022 da Tabela Unificada.</description>
+      <pubDate>Tue, 18 Jan 2022 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202201_v2201180947.zip</guid>
+      <dc:date>2022-01-18T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202112_v2112141200.zip</link>
+      <description>Liberada a competência de 12/2021 da Tabela Unificada.</description>
+      <pubDate>Tue, 14 Dec 2021 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202112_v2112141200.zip</guid>
+      <dc:date>2021-12-14T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202111_v2111081626.zip</link>
+      <description>Liberada a competência de 11/2021 da Tabela Unificada.</description>
+      <pubDate>Mon, 08 Nov 2021 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202111_v2111081626.zip</guid>
+      <dc:date>2021-11-08T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202110_v2111081624.zip</link>
+      <description>Liberada a competência de 10/2021 da Tabela Unificada.</description>
+      <pubDate>Mon, 08 Nov 2021 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202110_v2111081624.zip</guid>
+      <dc:date>2021-11-08T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202109_v2109011702.zip</link>
+      <description>Liberada a competência de 09/2021 da Tabela Unificada.</description>
+      <pubDate>Wed, 01 Sep 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202109_v2109011702.zip</guid>
+      <dc:date>2021-09-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202108_v2108021412.zip</link>
+      <description>Liberada a competência de 08/2021 da Tabela Unificada.</description>
+      <pubDate>Mon, 02 Aug 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202108_v2108021412.zip</guid>
+      <dc:date>2021-08-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202107_v2107021357.zip</link>
+      <description>Liberada a competência de 07/2021 da Tabela Unificada.</description>
+      <pubDate>Fri, 02 Jul 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202107_v2107021357.zip</guid>
+      <dc:date>2021-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202106_v2106081641.zip</link>
+      <description>Liberada a competência de 06/2021 da Tabela Unificada.</description>
+      <pubDate>Tue, 08 Jun 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202106_v2106081641.zip</guid>
+      <dc:date>2021-06-08T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202105_v2105031054.zip</link>
+      <description>Liberada a competência de 05/2021 da Tabela Unificada.</description>
+      <pubDate>Mon, 03 May 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202105_v2105031054.zip</guid>
+      <dc:date>2021-05-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202104_v2104011208.zip</link>
+      <description>Liberada a competência de 04/2021 da Tabela Unificada.</description>
+      <pubDate>Thu, 01 Apr 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202104_v2104011208.zip</guid>
+      <dc:date>2021-04-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202103_v2103031426.zip</link>
+      <description>Liberada a competência de 03/2021 da Tabela Unificada.</description>
+      <pubDate>Wed, 03 Mar 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202103_v2103031426.zip</guid>
+      <dc:date>2021-03-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202102_v2102011855.zip</link>
+      <description>Liberada a competência de 02/2021 da Tabela Unificada.</description>
+      <pubDate>Mon, 01 Feb 2021 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202102_v2102011855.zip</guid>
+      <dc:date>2021-02-01T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2021</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202101_v2101271632.zip</link>
+      <description>Liberada a competência de 01/2021 da Tabela Unificada.</description>
+      <pubDate>Wed, 27 Jan 2021 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202101_v2101271632.zip</guid>
+      <dc:date>2021-01-27T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202012_v2012091602.zip</link>
+      <description>Liberada a competência de 12/2020 da Tabela Unificada.</description>
+      <pubDate>Wed, 09 Dec 2020 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202012_v2012091602.zip</guid>
+      <dc:date>2020-12-09T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202011_v2011031118.zip</link>
+      <description>Liberada a competência de 11/2020 da Tabela Unificada.</description>
+      <pubDate>Tue, 03 Nov 2020 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202011_v2011031118.zip</guid>
+      <dc:date>2020-11-03T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202010_v2010010944.zip</link>
+      <description>Liberada a competência de 10/2020 da Tabela Unificada.</description>
+      <pubDate>Thu, 01 Oct 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202010_v2010010944.zip</guid>
+      <dc:date>2020-10-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202009_v2009011133.zip</link>
+      <description>Liberada a competência de 09/2020 da Tabela Unificada.</description>
+      <pubDate>Tue, 01 Sep 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202009_v2009011133.zip</guid>
+      <dc:date>2020-09-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202008_v2008031642.zip</link>
+      <description>Liberada a competência de 08/2020 da Tabela Unificada.</description>
+      <pubDate>Mon, 03 Aug 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202008_v2008031642.zip</guid>
+      <dc:date>2020-08-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202007_v2007071432.zip</link>
+      <description>Liberada a competência de 07/2020 da Tabela Unificada.</description>
+      <pubDate>Tue, 07 Jul 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202007_v2007071432.zip</guid>
+      <dc:date>2020-07-07T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202006_v2006181804.zip</link>
+      <description>Liberada a competência de 06/2020 da Tabela Unificada.</description>
+      <pubDate>Thu, 18 Jun 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202006_v2006181804.zip</guid>
+      <dc:date>2020-06-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202005_v2006181741.zip</link>
+      <description>Liberada a competência de 05/2020 da Tabela Unificada.</description>
+      <pubDate>Thu, 18 Jun 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202005_v2006181741.zip</guid>
+      <dc:date>2020-06-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202004_v2004161144.zip</link>
+      <description>Liberada a competência de 04/2020 da Tabela Unificada.</description>
+      <pubDate>Thu, 16 Apr 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202004_v2004161144.zip</guid>
+      <dc:date>2020-04-16T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202003_v2003201430.zip</link>
+      <description>Liberada a competência de 03/2020 da Tabela Unificada.</description>
+      <pubDate>Fri, 20 Mar 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202003_v2003201430.zip</guid>
+      <dc:date>2020-03-20T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202002_v2002271640.zip</link>
+      <description>Liberada a competência de 02/2020 da Tabela Unificada.</description>
+      <pubDate>Thu, 27 Feb 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202002_v2002271640.zip</guid>
+      <dc:date>2020-02-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2020</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202001_v2001061722.zip</link>
+      <description>Liberada a competência de 01/2020 da Tabela Unificada.</description>
+      <pubDate>Mon, 06 Jan 2020 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_202001_v2001061722.zip</guid>
+      <dc:date>2020-01-06T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201912_v1912021555.zip</link>
+      <description>Liberada a competência de 12/2019 da Tabela Unificada.</description>
+      <pubDate>Mon, 02 Dec 2019 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201912_v1912021555.zip</guid>
+      <dc:date>2019-12-02T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201911_v1911011715.zip</link>
+      <description>Liberada a competência de 11/2019 da Tabela Unificada.</description>
+      <pubDate>Fri, 01 Nov 2019 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201911_v1911011715.zip</guid>
+      <dc:date>2019-11-01T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201910_v1910081639.zip</link>
+      <description>Liberada a competência de 10/2019 da Tabela Unificada.</description>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201910_v1910081639.zip</guid>
+      <dc:date>2019-10-08T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201909_v1909021454.zip</link>
+      <description>Liberada a competência de 09/2019 da Tabela Unificada.</description>
+      <pubDate>Mon, 02 Sep 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201909_v1909021454.zip</guid>
+      <dc:date>2019-09-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201908_v1908011650.zip</link>
+      <description>Liberada a competência de 08/2019 da Tabela Unificada.</description>
+      <pubDate>Thu, 01 Aug 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201908_v1908011650.zip</guid>
+      <dc:date>2019-08-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201907_v1907021533.zip</link>
+      <description>Liberada a competência de 07/2019 da Tabela Unificada.</description>
+      <pubDate>Tue, 02 Jul 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201907_v1907021533.zip</guid>
+      <dc:date>2019-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201906_v1905311610.zip</link>
+      <description>Liberada a competência de 06/2019 da Tabela Unificada.</description>
+      <pubDate>Fri, 31 May 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201906_v1905311610.zip</guid>
+      <dc:date>2019-05-31T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201905_v1905031613.zip</link>
+      <description>Liberada a competência de 05/2019 da Tabela Unificada.</description>
+      <pubDate>Fri, 03 May 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201905_v1905031613.zip</guid>
+      <dc:date>2019-05-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201904_v1904100923.zip</link>
+      <description>Liberada a competência de 04/2019 da Tabela Unificada.</description>
+      <pubDate>Wed, 10 Apr 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201904_v1904100923.zip</guid>
+      <dc:date>2019-04-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201903_v1904051248.zip</link>
+      <description>Liberada a competência de 03/2019 da Tabela Unificada.</description>
+      <pubDate>Fri, 05 Apr 2019 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201903_v1904051248.zip</guid>
+      <dc:date>2019-04-05T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201902_v1902011657.zip</link>
+      <description>Liberada a competência de 02/2019 da Tabela Unificada.</description>
+      <pubDate>Fri, 01 Feb 2019 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201902_v1902011657.zip</guid>
+      <dc:date>2019-02-01T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2019</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201901_v1901041617.zip</link>
+      <description>Liberada a competência de 01/2019 da Tabela Unificada.</description>
+      <pubDate>Fri, 04 Jan 2019 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201901_v1901041617.zip</guid>
+      <dc:date>2019-01-04T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201812_v1812111703.zip</link>
+      <description>Liberada a competência de 12/2018 da Tabela Unificada.</description>
+      <pubDate>Tue, 11 Dec 2018 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201812_v1812111703.zip</guid>
+      <dc:date>2018-12-11T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201811_v1811051314.zip</link>
+      <description>Liberada a competência de 11/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 05 Nov 2018 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201811_v1811051314.zip</guid>
+      <dc:date>2018-11-05T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201810_v1810021705.zip</link>
+      <description>Liberada a competência de 10/2018 da Tabela Unificada.</description>
+      <pubDate>Tue, 02 Oct 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201810_v1810021705.zip</guid>
+      <dc:date>2018-10-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201809_v1809241702.zip</link>
+      <description>Liberada a competência de 09/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 24 Sep 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201809_v1809241702.zip</guid>
+      <dc:date>2018-09-24T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201808_v2102261143.zip</link>
+      <description>Liberada a competência de 08/2018 da Tabela Unificada.</description>
+      <pubDate>Fri, 26 Feb 2021 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201808_v2102261143.zip</guid>
+      <dc:date>2021-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201807_v1807021706.zip</link>
+      <description>Liberada a competência de 07/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 02 Jul 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201807_v1807021706.zip</guid>
+      <dc:date>2018-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201806_v1806111512.zip</link>
+      <description>Liberada a competência de 06/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 11 Jun 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201806_v1806111512.zip</guid>
+      <dc:date>2018-06-11T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201805_v1806111505.zip</link>
+      <description>Liberada a competência de 05/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 11 Jun 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201805_v1806111505.zip</guid>
+      <dc:date>2018-06-11T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201804_v1804021534.zip</link>
+      <description>Liberada a competência de 04/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 02 Apr 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201804_v1804021534.zip</guid>
+      <dc:date>2018-04-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201803_v1803011824.zip</link>
+      <description>Liberada a competência de 03/2018 da Tabela Unificada.</description>
+      <pubDate>Thu, 01 Mar 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201803_v1803011824.zip</guid>
+      <dc:date>2018-03-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201802_v1809101730.zip</link>
+      <description>Liberada a competência de 02/2018 da Tabela Unificada.</description>
+      <pubDate>Mon, 10 Sep 2018 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201802_v1809101730.zip</guid>
+      <dc:date>2018-09-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2018</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201801_v1801051551.zip</link>
+      <description>Liberada a competência de 01/2018 da Tabela Unificada.</description>
+      <pubDate>Fri, 05 Jan 2018 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201801_v1801051551.zip</guid>
+      <dc:date>2018-01-05T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201712_v1712041407.zip</link>
+      <description>Liberada a competência de 12/2017 da Tabela Unificada.</description>
+      <pubDate>Mon, 04 Dec 2017 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201712_v1712041407.zip</guid>
+      <dc:date>2017-12-04T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201711_v1711011202.zip</link>
+      <description>Liberada a competência de 11/2017 da Tabela Unificada.</description>
+      <pubDate>Wed, 01 Nov 2017 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201711_v1711011202.zip</guid>
+      <dc:date>2017-11-01T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201710_v1710061553.zip</link>
+      <description>Liberada a competência de 10/2017 da Tabela Unificada.</description>
+      <pubDate>Fri, 06 Oct 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201710_v1710061553.zip</guid>
+      <dc:date>2017-10-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201709_v1709011646.zip</link>
+      <description>Liberada a competência de 09/2017 da Tabela Unificada.</description>
+      <pubDate>Fri, 01 Sep 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201709_v1709011646.zip</guid>
+      <dc:date>2017-09-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201708_v1708101635.zip</link>
+      <description>Liberada a competência de 08/2017 da Tabela Unificada.</description>
+      <pubDate>Thu, 10 Aug 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201708_v1708101635.zip</guid>
+      <dc:date>2017-08-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201707_v1708091618.zip</link>
+      <description>Liberada a competência de 07/2017 da Tabela Unificada.</description>
+      <pubDate>Wed, 09 Aug 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201707_v1708091618.zip</guid>
+      <dc:date>2017-08-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201706_v1706091815.zip</link>
+      <description>Liberada a competência de 06/2017 da Tabela Unificada.</description>
+      <pubDate>Fri, 09 Jun 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201706_v1706091815.zip</guid>
+      <dc:date>2017-06-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201705_v1705021422.zip</link>
+      <description>Liberada a competência de 05/2017 da Tabela Unificada.</description>
+      <pubDate>Tue, 02 May 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201705_v1705021422.zip</guid>
+      <dc:date>2017-05-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201704_v1704131606.zip</link>
+      <description>Liberada a competência de 04/2017 da Tabela Unificada.</description>
+      <pubDate>Thu, 13 Apr 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201704_v1704131606.zip</guid>
+      <dc:date>2017-04-13T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201703_v1703031708.zip</link>
+      <description>Liberada a competência de 03/2017 da Tabela Unificada.</description>
+      <pubDate>Fri, 03 Mar 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201703_v1703031708.zip</guid>
+      <dc:date>2017-03-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201702_v1703021637.zip</link>
+      <description>Liberada a competência de 02/2017 da Tabela Unificada.</description>
+      <pubDate>Thu, 02 Mar 2017 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201702_v1703021637.zip</guid>
+      <dc:date>2017-03-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2017</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201701_v1702061521.zip</link>
+      <description>Liberada a competência de 01/2017 da Tabela Unificada.</description>
+      <pubDate>Mon, 06 Feb 2017 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201701_v1702061521.zip</guid>
+      <dc:date>2017-02-06T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201612_v1612071619.zip</link>
+      <description>Liberada a competência de 12/2016 da Tabela Unificada.</description>
+      <pubDate>Wed, 07 Dec 2016 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201612_v1612071619.zip</guid>
+      <dc:date>2016-12-07T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201611_v1611031724.zip</link>
+      <description>Liberada a competência de 11/2016 da Tabela Unificada.</description>
+      <pubDate>Thu, 03 Nov 2016 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201611_v1611031724.zip</guid>
+      <dc:date>2016-11-03T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201610_v1611031723.zip</link>
+      <description>Liberada a competência de 10/2016 da Tabela Unificada.</description>
+      <pubDate>Thu, 03 Nov 2016 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201610_v1611031723.zip</guid>
+      <dc:date>2016-11-03T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201609_v1610031604.zip</link>
+      <description>Liberada a competência de 09/2016 da Tabela Unificada.</description>
+      <pubDate>Mon, 03 Oct 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201609_v1610031604.zip</guid>
+      <dc:date>2016-10-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201608_v1608091118.zip</link>
+      <description>Liberada a competência de 08/2016 da Tabela Unificada.</description>
+      <pubDate>Tue, 09 Aug 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201608_v1608091118.zip</guid>
+      <dc:date>2016-08-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201607_v1608091118.zip</link>
+      <description>Liberada a competência de 07/2016 da Tabela Unificada.</description>
+      <pubDate>Tue, 09 Aug 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201607_v1608091118.zip</guid>
+      <dc:date>2016-08-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201606_v1606101035.zip</link>
+      <description>Liberada a competência de 06/2016 da Tabela Unificada.</description>
+      <pubDate>Fri, 10 Jun 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201606_v1606101035.zip</guid>
+      <dc:date>2016-06-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201605_v1605180923.zip</link>
+      <description>Liberada a competência de 05/2016 da Tabela Unificada.</description>
+      <pubDate>Wed, 18 May 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201605_v1605180923.zip</guid>
+      <dc:date>2016-05-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201604_v1605180922.zip</link>
+      <description>Liberada a competência de 04/2016 da Tabela Unificada.</description>
+      <pubDate>Wed, 18 May 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201604_v1605180922.zip</guid>
+      <dc:date>2016-05-18T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201603_v1603070927.zip</link>
+      <description>Liberada a competência de 03/2016 da Tabela Unificada.</description>
+      <pubDate>Mon, 07 Mar 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201603_v1603070927.zip</guid>
+      <dc:date>2016-03-07T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201602_v1603021717.zip</link>
+      <description>Liberada a competência de 02/2016 da Tabela Unificada.</description>
+      <pubDate>Wed, 02 Mar 2016 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201602_v1603021717.zip</guid>
+      <dc:date>2016-03-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2016</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201601_v1601061734.zip</link>
+      <description>Liberada a competência de 01/2016 da Tabela Unificada.</description>
+      <pubDate>Wed, 06 Jan 2016 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201601_v1601061734.zip</guid>
+      <dc:date>2016-01-06T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201512_v1512151448.zip</link>
+      <description>Liberada a competência de 12/2015 da Tabela Unificada.</description>
+      <pubDate>Tue, 15 Dec 2015 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201512_v1512151448.zip</guid>
+      <dc:date>2015-12-15T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201511_v1512151444.zip</link>
+      <description>Liberada a competência de 11/2015 da Tabela Unificada.</description>
+      <pubDate>Tue, 15 Dec 2015 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201511_v1512151444.zip</guid>
+      <dc:date>2015-12-15T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201510_v1511111440.zip</link>
+      <description>Liberada a competência de 10/2015 da Tabela Unificada.</description>
+      <pubDate>Wed, 11 Nov 2015 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201510_v1511111440.zip</guid>
+      <dc:date>2015-11-11T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201509_v1510011702.zip</link>
+      <description>Liberada a competência de 09/2015 da Tabela Unificada.</description>
+      <pubDate>Thu, 01 Oct 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201509_v1510011702.zip</guid>
+      <dc:date>2015-10-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201508_v1509281140.zip</link>
+      <description>Liberada a competência de 08/2015 da Tabela Unificada.</description>
+      <pubDate>Mon, 28 Sep 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201508_v1509281140.zip</guid>
+      <dc:date>2015-09-28T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201507_v1507101522.zip</link>
+      <description>Liberada a competência de 07/2015 da Tabela Unificada.</description>
+      <pubDate>Fri, 10 Jul 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201507_v1507101522.zip</guid>
+      <dc:date>2015-07-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201506_v1506051541.zip</link>
+      <description>Liberada a competência de 06/2015 da Tabela Unificada.</description>
+      <pubDate>Fri, 05 Jun 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201506_v1506051541.zip</guid>
+      <dc:date>2015-06-05T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201505_v1505081408.zip</link>
+      <description>Liberada a competência de 05/2015 da Tabela Unificada.</description>
+      <pubDate>Fri, 08 May 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201505_v1505081408.zip</guid>
+      <dc:date>2015-05-08T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201504_v1505071539.zip</link>
+      <description>Liberada a competência de 04/2015 da Tabela Unificada.</description>
+      <pubDate>Thu, 07 May 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201504_v1505071539.zip</guid>
+      <dc:date>2015-05-07T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201503_v1504101116.zip</link>
+      <description>Liberada a competência de 03/2015 da Tabela Unificada.</description>
+      <pubDate>Fri, 10 Apr 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201503_v1504101116.zip</guid>
+      <dc:date>2015-04-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201502_v1503022052.zip</link>
+      <description>Liberada a competência de 02/2015 da Tabela Unificada.</description>
+      <pubDate>Mon, 02 Mar 2015 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201502_v1503022052.zip</guid>
+      <dc:date>2015-03-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2015</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201501_v1501051026.zip</link>
+      <description>Liberada a competência de 01/2015 da Tabela Unificada.</description>
+      <pubDate>Mon, 05 Jan 2015 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201501_v1501051026.zip</guid>
+      <dc:date>2015-01-05T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201412_v1412181350.zip</link>
+      <description>Liberada a competência de 12/2014 da Tabela Unificada.</description>
+      <pubDate>Thu, 18 Dec 2014 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201412_v1412181350.zip</guid>
+      <dc:date>2014-12-18T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201411_v1411051203.zip</link>
+      <description>Liberada a competência de 11/2014 da Tabela Unificada.</description>
+      <pubDate>Wed, 05 Nov 2014 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201411_v1411051203.zip</guid>
+      <dc:date>2014-11-05T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201410_v1410161050.zip</link>
+      <description>Liberada a competência de 10/2014 da Tabela Unificada.</description>
+      <pubDate>Thu, 16 Oct 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201410_v1410161050.zip</guid>
+      <dc:date>2014-10-16T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201409_v1410141607.zip</link>
+      <description>Liberada a competência de 09/2014 da Tabela Unificada.</description>
+      <pubDate>Tue, 14 Oct 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201409_v1410141607.zip</guid>
+      <dc:date>2014-10-14T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201408_v1409030953.zip</link>
+      <description>Liberada a competência de 08/2014 da Tabela Unificada.</description>
+      <pubDate>Wed, 03 Sep 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201408_v1409030953.zip</guid>
+      <dc:date>2014-09-03T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201407_v1407111654.zip</link>
+      <description>Liberada a competência de 07/2014 da Tabela Unificada.</description>
+      <pubDate>Fri, 11 Jul 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201407_v1407111654.zip</guid>
+      <dc:date>2014-07-11T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201406_v1406061614.zip</link>
+      <description>Liberada a competência de 06/2014 da Tabela Unificada.</description>
+      <pubDate>Fri, 06 Jun 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201406_v1406061614.zip</guid>
+      <dc:date>2014-06-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201405_v1405271633.zip</link>
+      <description>Liberada a competência de 05/2014 da Tabela Unificada.</description>
+      <pubDate>Tue, 27 May 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201405_v1405271633.zip</guid>
+      <dc:date>2014-05-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201404_v2002261635.zip</link>
+      <description>Liberada a competência de 04/2014 da Tabela Unificada.</description>
+      <pubDate>Wed, 26 Feb 2020 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201404_v2002261635.zip</guid>
+      <dc:date>2020-02-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201403_v1405271537.zip</link>
+      <description>Liberada a competência de 03/2014 da Tabela Unificada.</description>
+      <pubDate>Tue, 27 May 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201403_v1405271537.zip</guid>
+      <dc:date>2014-05-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201402_v1405271531.zip</link>
+      <description>Liberada a competência de 02/2014 da Tabela Unificada.</description>
+      <pubDate>Tue, 27 May 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201402_v1405271531.zip</guid>
+      <dc:date>2014-05-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2014</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201401_v1405261730.zip</link>
+      <description>Liberada a competência de 01/2014 da Tabela Unificada.</description>
+      <pubDate>Mon, 26 May 2014 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201401_v1405261730.zip</guid>
+      <dc:date>2014-05-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201312_v1312131553.zip</link>
+      <description>Liberada a competência de 12/2013 da Tabela Unificada.</description>
+      <pubDate>Fri, 13 Dec 2013 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201312_v1312131553.zip</guid>
+      <dc:date>2013-12-13T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201311_v1311281909.zip</link>
+      <description>Liberada a competência de 11/2013 da Tabela Unificada.</description>
+      <pubDate>Thu, 28 Nov 2013 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201311_v1311281909.zip</guid>
+      <dc:date>2013-11-28T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201310_v1311080930.zip</link>
+      <description>Liberada a competência de 10/2013 da Tabela Unificada.</description>
+      <pubDate>Fri, 08 Nov 2013 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201310_v1311080930.zip</guid>
+      <dc:date>2013-11-08T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201309_v1310011206.zip</link>
+      <description>Liberada a competência de 09/2013 da Tabela Unificada.</description>
+      <pubDate>Tue, 01 Oct 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201309_v1310011206.zip</guid>
+      <dc:date>2013-10-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201308_v1308091715.zip</link>
+      <description>Liberada a competência de 08/2013 da Tabela Unificada.</description>
+      <pubDate>Fri, 09 Aug 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201308_v1308091715.zip</guid>
+      <dc:date>2013-08-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201307_v1307171408.zip</link>
+      <description>Liberada a competência de 07/2013 da Tabela Unificada.</description>
+      <pubDate>Wed, 17 Jul 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201307_v1307171408.zip</guid>
+      <dc:date>2013-07-17T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201306_v1307021748.zip</link>
+      <description>Liberada a competência de 06/2013 da Tabela Unificada.</description>
+      <pubDate>Tue, 02 Jul 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201306_v1307021748.zip</guid>
+      <dc:date>2013-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201305_v1306141259.zip</link>
+      <description>Liberada a competência de 05/2013 da Tabela Unificada.</description>
+      <pubDate>Fri, 14 Jun 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201305_v1306141259.zip</guid>
+      <dc:date>2013-06-14T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201304_v1304101754.zip</link>
+      <description>Liberada a competência de 04/2013 da Tabela Unificada.</description>
+      <pubDate>Wed, 10 Apr 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201304_v1304101754.zip</guid>
+      <dc:date>2013-04-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201303_v1303061120.zip</link>
+      <description>Liberada a competência de 03/2013 da Tabela Unificada.</description>
+      <pubDate>Wed, 06 Mar 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201303_v1303061120.zip</guid>
+      <dc:date>2013-03-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201302_v1302251625.zip</link>
+      <description>Liberada a competência de 02/2013 da Tabela Unificada.</description>
+      <pubDate>Mon, 25 Feb 2013 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201302_v1302251625.zip</guid>
+      <dc:date>2013-02-25T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2013</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201301_v1302081106.zip</link>
+      <description>Liberada a competência de 01/2013 da Tabela Unificada.</description>
+      <pubDate>Fri, 08 Feb 2013 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201301_v1302081106.zip</guid>
+      <dc:date>2013-02-08T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201212_v1212191254.zip</link>
+      <description>Liberada a competência de 12/2012 da Tabela Unificada.</description>
+      <pubDate>Wed, 19 Dec 2012 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201212_v1212191254.zip</guid>
+      <dc:date>2012-12-19T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201211_v1212191245.zip</link>
+      <description>Liberada a competência de 11/2012 da Tabela Unificada.</description>
+      <pubDate>Wed, 19 Dec 2012 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201211_v1212191245.zip</guid>
+      <dc:date>2012-12-19T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201210_v1210291037.zip</link>
+      <description>Liberada a competência de 10/2012 da Tabela Unificada.</description>
+      <pubDate>Mon, 29 Oct 2012 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201210_v1210291037.zip</guid>
+      <dc:date>2012-10-29T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201209_v1209281618.zip</link>
+      <description>Liberada a competência de 09/2012 da Tabela Unificada.</description>
+      <pubDate>Fri, 28 Sep 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201209_v1209281618.zip</guid>
+      <dc:date>2012-09-28T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201208_v1208301009.zip</link>
+      <description>Liberada a competência de 08/2012 da Tabela Unificada.</description>
+      <pubDate>Thu, 30 Aug 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201208_v1208301009.zip</guid>
+      <dc:date>2012-08-30T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201207_v1208221527.zip</link>
+      <description>Liberada a competência de 07/2012 da Tabela Unificada.</description>
+      <pubDate>Wed, 22 Aug 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201207_v1208221527.zip</guid>
+      <dc:date>2012-08-22T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201206_v1206221538.zip</link>
+      <description>Liberada a competência de 06/2012 da Tabela Unificada.</description>
+      <pubDate>Fri, 22 Jun 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201206_v1206221538.zip</guid>
+      <dc:date>2012-06-22T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201205_v1206061241.zip</link>
+      <description>Liberada a competência de 05/2012 da Tabela Unificada.</description>
+      <pubDate>Wed, 06 Jun 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201205_v1206061241.zip</guid>
+      <dc:date>2012-06-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201204_v1203291454.zip</link>
+      <description>Liberada a competência de 04/2012 da Tabela Unificada.</description>
+      <pubDate>Thu, 29 Mar 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201204_v1203291454.zip</guid>
+      <dc:date>2012-03-29T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201203_v1203121157.zip</link>
+      <description>Liberada a competência de 03/2012 da Tabela Unificada.</description>
+      <pubDate>Mon, 12 Mar 2012 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201203_v1203121157.zip</guid>
+      <dc:date>2012-03-12T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201202_v1202160902.zip</link>
+      <description>Liberada a competência de 02/2012 da Tabela Unificada.</description>
+      <pubDate>Thu, 16 Feb 2012 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201202_v1202160902.zip</guid>
+      <dc:date>2012-02-16T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2012</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201201_v1201311547.zip</link>
+      <description>Liberada a competência de 01/2012 da Tabela Unificada.</description>
+      <pubDate>Tue, 31 Jan 2012 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201201_v1201311547.zip</guid>
+      <dc:date>2012-01-31T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201112_v1201311738.zip</link>
+      <description>Liberada a competência de 12/2011 da Tabela Unificada.</description>
+      <pubDate>Tue, 31 Jan 2012 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201112_v1201311738.zip</guid>
+      <dc:date>2012-01-31T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201111_v1111181444.zip</link>
+      <description>Liberada a competência de 11/2011 da Tabela Unificada.</description>
+      <pubDate>Fri, 18 Nov 2011 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201111_v1111181444.zip</guid>
+      <dc:date>2011-11-18T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201110_v1111111517.zip</link>
+      <description>Liberada a competência de 10/2011 da Tabela Unificada.</description>
+      <pubDate>Fri, 11 Nov 2011 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201110_v1111111517.zip</guid>
+      <dc:date>2011-11-11T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201109_v1109301613.zip</link>
+      <description>Liberada a competência de 09/2011 da Tabela Unificada.</description>
+      <pubDate>Fri, 30 Sep 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201109_v1109301613.zip</guid>
+      <dc:date>2011-09-30T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201108_v1108241629.zip</link>
+      <description>Liberada a competência de 08/2011 da Tabela Unificada.</description>
+      <pubDate>Wed, 24 Aug 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201108_v1108241629.zip</guid>
+      <dc:date>2011-08-24T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201107_v1108101610.zip</link>
+      <description>Liberada a competência de 07/2011 da Tabela Unificada.</description>
+      <pubDate>Wed, 10 Aug 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201107_v1108101610.zip</guid>
+      <dc:date>2011-08-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201106_v1106071108.zip</link>
+      <description>Liberada a competência de 06/2011 da Tabela Unificada.</description>
+      <pubDate>Tue, 07 Jun 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201106_v1106071108.zip</guid>
+      <dc:date>2011-06-07T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201105_v1105261203.zip</link>
+      <description>Liberada a competência de 05/2011 da Tabela Unificada.</description>
+      <pubDate>Thu, 26 May 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201105_v1105261203.zip</guid>
+      <dc:date>2011-05-26T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201104_v1104271451.zip</link>
+      <description>Liberada a competência de 04/2011 da Tabela Unificada.</description>
+      <pubDate>Wed, 27 Apr 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201104_v1104271451.zip</guid>
+      <dc:date>2011-04-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201103_v1103291803.zip</link>
+      <description>Liberada a competência de 03/2011 da Tabela Unificada.</description>
+      <pubDate>Tue, 29 Mar 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201103_v1103291803.zip</guid>
+      <dc:date>2011-03-29T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201102_v1103011130.zip</link>
+      <description>Liberada a competência de 02/2011 da Tabela Unificada.</description>
+      <pubDate>Tue, 01 Mar 2011 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201102_v1103011130.zip</guid>
+      <dc:date>2011-03-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2011</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201101_v1102111247.zip</link>
+      <description>Liberada a competência de 01/2011 da Tabela Unificada.</description>
+      <pubDate>Fri, 11 Feb 2011 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201101_v1102111247.zip</guid>
+      <dc:date>2011-02-11T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201012_v1102071943.zip</link>
+      <description>Liberada a competência de 12/2010 da Tabela Unificada.</description>
+      <pubDate>Mon, 07 Feb 2011 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201012_v1102071943.zip</guid>
+      <dc:date>2011-02-07T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201011_v1012021720.zip</link>
+      <description>Liberada a competência de 11/2010 da Tabela Unificada.</description>
+      <pubDate>Thu, 02 Dec 2010 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201011_v1012021720.zip</guid>
+      <dc:date>2010-12-02T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201010_v1010261701.zip</link>
+      <description>Liberada a competência de 10/2010 da Tabela Unificada.</description>
+      <pubDate>Tue, 26 Oct 2010 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201010_v1010261701.zip</guid>
+      <dc:date>2010-10-26T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201009_v1010261656.zip</link>
+      <description>Liberada a competência de 09/2010 da Tabela Unificada.</description>
+      <pubDate>Tue, 26 Oct 2010 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201009_v1010261656.zip</guid>
+      <dc:date>2010-10-26T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201008_v1008191716.zip</link>
+      <description>Liberada a competência de 08/2010 da Tabela Unificada.</description>
+      <pubDate>Thu, 19 Aug 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201008_v1008191716.zip</guid>
+      <dc:date>2010-08-19T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201007_v1007191802.zip</link>
+      <description>Liberada a competência de 07/2010 da Tabela Unificada.</description>
+      <pubDate>Mon, 19 Jul 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201007_v1007191802.zip</guid>
+      <dc:date>2010-07-19T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201006_v1006151030.zip</link>
+      <description>Liberada a competência de 06/2010 da Tabela Unificada.</description>
+      <pubDate>Tue, 15 Jun 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201006_v1006151030.zip</guid>
+      <dc:date>2010-06-15T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201005_v1004301524.zip</link>
+      <description>Liberada a competência de 05/2010 da Tabela Unificada.</description>
+      <pubDate>Fri, 30 Apr 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201005_v1004301524.zip</guid>
+      <dc:date>2010-04-30T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201004_v1004091047.zip</link>
+      <description>Liberada a competência de 04/2010 da Tabela Unificada.</description>
+      <pubDate>Fri, 09 Apr 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201004_v1004091047.zip</guid>
+      <dc:date>2010-04-09T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201003_v1003301549.zip</link>
+      <description>Liberada a competência de 03/2010 da Tabela Unificada.</description>
+      <pubDate>Tue, 30 Mar 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201003_v1003301549.zip</guid>
+      <dc:date>2010-03-30T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201002_v1003021002.zip</link>
+      <description>Liberada a competência de 02/2010 da Tabela Unificada.</description>
+      <pubDate>Tue, 02 Mar 2010 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201002_v1003021002.zip</guid>
+      <dc:date>2010-03-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2010</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201001_v1002101002.zip</link>
+      <description>Liberada a competência de 01/2010 da Tabela Unificada.</description>
+      <pubDate>Wed, 10 Feb 2010 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_201001_v1002101002.zip</guid>
+      <dc:date>2010-02-10T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200912_v1001071408.zip</link>
+      <description>Liberada a competência de 12/2009 da Tabela Unificada.</description>
+      <pubDate>Thu, 07 Jan 2010 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200912_v1001071408.zip</guid>
+      <dc:date>2010-01-07T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200911_v0912161011.zip</link>
+      <description>Liberada a competência de 11/2009 da Tabela Unificada.</description>
+      <pubDate>Wed, 16 Dec 2009 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200911_v0912161011.zip</guid>
+      <dc:date>2009-12-16T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200910_v0911101613.zip</link>
+      <description>Liberada a competência de 10/2009 da Tabela Unificada.</description>
+      <pubDate>Tue, 10 Nov 2009 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200910_v0911101613.zip</guid>
+      <dc:date>2009-11-10T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200909_v0910021614.zip</link>
+      <description>Liberada a competência de 09/2009 da Tabela Unificada.</description>
+      <pubDate>Fri, 02 Oct 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200909_v0910021614.zip</guid>
+      <dc:date>2009-10-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200908_v0909101418.zip</link>
+      <description>Liberada a competência de 08/2009 da Tabela Unificada.</description>
+      <pubDate>Thu, 10 Sep 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200908_v0909101418.zip</guid>
+      <dc:date>2009-09-10T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200907_v0907171644.zip</link>
+      <description>Liberada a competência de 07/2009 da Tabela Unificada.</description>
+      <pubDate>Fri, 17 Jul 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200907_v0907171644.zip</guid>
+      <dc:date>2009-07-17T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200906_v0907061519.zip</link>
+      <description>Liberada a competência de 06/2009 da Tabela Unificada.</description>
+      <pubDate>Mon, 06 Jul 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200906_v0907061519.zip</guid>
+      <dc:date>2009-07-06T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200905_v0906081340.zip</link>
+      <description>Liberada a competência de 05/2009 da Tabela Unificada.</description>
+      <pubDate>Mon, 08 Jun 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200905_v0906081340.zip</guid>
+      <dc:date>2009-06-08T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200904.zip</link>
+      <description>Liberada a competência de 04/2009 da Tabela Unificada.</description>
+      <pubDate>Mon, 04 May 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200904.zip</guid>
+      <dc:date>2009-05-04T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200903.zip</link>
+      <description>Liberada a competência de 03/2009 da Tabela Unificada.</description>
+      <pubDate>Wed, 04 Mar 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200903.zip</guid>
+      <dc:date>2009-03-04T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200902.zip</link>
+      <description>Liberada a competência de 02/2009 da Tabela Unificada.</description>
+      <pubDate>Fri, 27 Feb 2009 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200902.zip</guid>
+      <dc:date>2009-02-27T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2009</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200901.zip</link>
+      <description>Liberada a competência de 01/2009 da Tabela Unificada.</description>
+      <pubDate>Fri, 13 Feb 2009 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200901.zip</guid>
+      <dc:date>2009-02-13T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 12/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200812.zip</link>
+      <description>Liberada a competência de 12/2008 da Tabela Unificada.</description>
+      <pubDate>Fri, 06 Feb 2009 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200812.zip</guid>
+      <dc:date>2009-02-06T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 11/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200811.zip</link>
+      <description>Liberada a competência de 11/2008 da Tabela Unificada.</description>
+      <pubDate>Wed, 10 Dec 2008 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200811.zip</guid>
+      <dc:date>2008-12-10T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 10/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200810.zip</link>
+      <description>Liberada a competência de 10/2008 da Tabela Unificada.</description>
+      <pubDate>Mon, 17 Nov 2008 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200810.zip</guid>
+      <dc:date>2008-11-17T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 09/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200809.zip</link>
+      <description>Liberada a competência de 09/2008 da Tabela Unificada.</description>
+      <pubDate>Fri, 17 Oct 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200809.zip</guid>
+      <dc:date>2008-10-17T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 08/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200808.zip</link>
+      <description>Liberada a competência de 08/2008 da Tabela Unificada.</description>
+      <pubDate>Mon, 01 Sep 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200808.zip</guid>
+      <dc:date>2008-09-01T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 07/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200807.zip</link>
+      <description>Liberada a competência de 07/2008 da Tabela Unificada.</description>
+      <pubDate>Thu, 31 Jul 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200807.zip</guid>
+      <dc:date>2008-07-31T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 06/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200806.zip</link>
+      <description>Liberada a competência de 06/2008 da Tabela Unificada.</description>
+      <pubDate>Mon, 14 Jul 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200806.zip</guid>
+      <dc:date>2008-07-14T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 05/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200805.zip</link>
+      <description>Liberada a competência de 05/2008 da Tabela Unificada.</description>
+      <pubDate>Wed, 02 Jul 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200805.zip</guid>
+      <dc:date>2008-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 04/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200804.zip</link>
+      <description>Liberada a competência de 04/2008 da Tabela Unificada.</description>
+      <pubDate>Wed, 02 Jul 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200804.zip</guid>
+      <dc:date>2008-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 03/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200803.zip</link>
+      <description>Liberada a competência de 03/2008 da Tabela Unificada.</description>
+      <pubDate>Thu, 08 Jan 2009 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200803.zip</guid>
+      <dc:date>2009-01-08T02:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 02/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200802.zip</link>
+      <description>Liberada a competência de 02/2008 da Tabela Unificada.</description>
+      <pubDate>Wed, 02 Jul 2008 03:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200802.zip</guid>
+      <dc:date>2008-07-02T03:00:00Z</dc:date>
+    </item>
+    <item>
+      <title>Competência 01/2008</title>
+      <link>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200801.zip</link>
+      <description>Liberada a competência de 01/2008 da Tabela Unificada.</description>
+      <pubDate>Thu, 08 Jan 2009 02:00:00 GMT</pubDate>
+      <guid>ftp://ftp2.datasus.gov.br/pub/sistemas/tup/downloads/TabelaUnificada_200801.zip</guid>
+      <dc:date>2009-01-08T02:00:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

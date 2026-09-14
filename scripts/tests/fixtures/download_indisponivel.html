@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+ 
+ <title>SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e OPM do SUS  </title>
+ <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"/>
+ <meta http-equiv="X-Frame-Options" content="deny">	
+ <link type="text/css" rel="stylesheet" href="/tabela-unificada/css/ms.css"/>
+ <link rel="stylesheet" type="text/css" href="/tabela-unificada/css/tabelaUnificada.css"/>
+ <link rel="stylesheet" type="text/css" href="/tabela-unificada/css/tabelaUnificadaDeepBlue.css" />
+ <link rel="stylesheet" type="text/css" href="/tabela-unificada/css/basic.css"/>
+ <link rel="alternate" type="application/rss+xml" title="Compet&#234;ncias para Download" href="/tabela-unificada/competencias.rss">
+ <link href="/tabela-unificada/images/16/bandeirinha.ico" rel="shortcut icon" type="image/x-icon" />
+
+ <script type="text/javascript" src="/tabela-unificada/js/general.js"></script>
+ <script type="text/javascript">addOnloadListener(pintaTabelasDeDados)</script>
+ <script type="text/javascript" src="/tabela-unificada/js/jquery-1.10.2.min.js"></script>
+ <script type="text/javascript" src="/tabela-unificada/js/jquery.mask.min.js"></script>
+</head>
+
+<script>
+	window.onload = function(){
+		runOnloadListeners();	
+	};
+	
+
+	$(document).ready(function() {
+
+	  $(".codidoProcedimento").mask("99.99.99.999-9");
+	});
+</script>
+
+<body>
+<div id="container">
+
+ <div id="header-wrapper">
+
+
+
+
+
+
+
+<div> 
+
+	<div id="banner">
+	
+	<a href="http://www.saude.gov.br/" id="r0" target="_blank" title="Minist&eacute;rio da Sa&uacute;de" tabindex="1">
+	  <img src="/tabela-unificada/images/ms/bandeira.png" alt="Minist&eacute;rio da Sa&uacute;de" longdesc="http://www.saude.gov.br/" border="0"
+	  >Minist&eacute;rio da Sa&uacute;de</a>
+	</div>
+	<div id="ms_Topo">
+		<a href="/tabela-unificada/app/sec/inicio.jsp" title="In&iacute;cio"><span id="ms_Imagem_topo">SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e OPM do SUS  </span></a>
+	</div>
+
+	<div class="ms_Novo_caixa_topo">
+	    
+		<form id="_idJsp0:formMenuSec" name="_idJsp0:formMenuSec" method="post" action="/tabela-unificada/app/download.jsp;jsessionid=A281E736AD4272434D9F890A9FF95B1D" enctype="application/x-www-form-urlencoded">
+			<div>
+				
+				    
+					<span>
+					    
+						 	<a href="javascript:acessar()" title="Acessar o Sigtap" tabindex="8">Acessar o Sigtap</a>
+						
+					    
+					</span>
+					<span>|</span>
+				
+				<span>
+					<a href="/tabela-unificada/app/download.jsp" title="Download" tabindex="8">Download</a>
+					<span>|</span>
+					<a href="https://wiki.saude.gov.br/sigtap" target="_blank" title="Wiki" tabindex="7">Wiki</a>
+					<span>|</span>
+					<a href="mailto:cgsi@saude.gov.br" title="Fale Conosco" tabindex="7">Fale Conosco</a>
+				</span>
+				
+				
+			</div>
+		<input type="hidden" name="_idJsp0:formMenuSec_SUBMIT" value="1" />
+<input type="hidden" name="autoScroll" />
+<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="56oxyN/JMNedvNQpCN3hyTZXJKBsvImdgmIumca53tdmlTcfoCzmOt5JkeY81jwHUgJl1iVHRF/Domzf7bXhNgxZ0vgAtgAwVH2H45X+l/fmMOcLLjPx2jNZupzxtWFsrGga2A==" /></form>
+	</div><!--Fecha JANELA PRINCIPAL-->
+
+	
+	
+		<script type="text/javascript">
+		
+		function acessar(){
+		   var formularioAnonimo = document.getElementById('Formulario Login Anonimo');
+		   formularioAnonimo.submit();
+		}
+	</script>
+	
+
+	<form action='j_security_check' id="Formulario Login Anonimo" method="post" style="margin:0;padding:0">
+		<input type='hidden' name='j_username' value="publico"/>
+		<input type='hidden' name='j_password' value="publico"/>
+	</form>
+</div><!--fecha BARRA SUPERIOR-->
+</div>
+ <div id="container_menu">
+
+
+
+<form id="formMenu" name="formMenu" method="post" action="/tabela-unificada/app/download.jsp;jsessionid=A281E736AD4272434D9F890A9FF95B1D" enctype="application/x-www-form-urlencoded">
+	<div id="menu">
+
+		
+<ul>
+</ul>
+	</div>
+<input type="hidden" name="formMenu_SUBMIT" value="1" />
+<input type="hidden" name="autoScroll" />
+<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="56oxyN/JMNedvNQpCN3hyTZXJKBsvImdgmIumca53tdmlTcfoCzmOt5JkeY81jwHUgJl1iVHRF/Domzf7bXhNgxZ0vgAtgAwVH2H45X+l/fmMOcLLjPx2jNZupzxtWFsrGga2A==" /></form>
+
+</div>
+ <div id="content">
+  <div id="messagePanel">
+    
+  </div>
+  <h1>Downloads</h1><table class="classedegruposdecarinhasnamesmalinha"><tbody><tr><td><img src="/tabela-unificada/images/32/important.png;jsessionid=A281E736AD4272434D9F890A9FF95B1D" style="border-style:none" /></td><td>Caro usu&#225;rio, no momento o servi&#231;o de downloads encontra-se indispon&#237;vel. Tente novamente mais tarde.</td></tr>
+</tbody></table>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </div>
+
+</div>
+
+<script type="text/javascript"><!--
+
+	function getScrolling()
+	{
+		var x = 0; var y = 0;if (self.pageXOffset || self.pageYOffset)
+		{
+			x = self.pageXOffset;
+			y = self.pageYOffset;
+		}
+		 else if ((document.documentElement && document.documentElement.scrollLeft)||(document.documentElement && document.documentElement.scrollTop))
+		{
+			x = document.documentElement.scrollLeft;
+			y = document.documentElement.scrollTop;
+		}
+		 else if (document.body) 
+		{
+			x = document.body.scrollLeft;
+			y = document.body.scrollTop;
+		}
+		return x + "," + y;
+	}
+	
+//--></script>
+</body>
+</html>
