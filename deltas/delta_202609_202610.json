@@ -1,0 +1,2075 @@
+{
+ "de": "202609",
+ "para": "202610",
+ "resumo": {
+  "incluidos": 18,
+  "excluidos": 2,
+  "reajustados": 14,
+  "alterados": 135
+ },
+ "incluidos": [
+  {
+   "codigo": "0205010067",
+   "nome": "USO DE DOPPLER PARA AVALIAÇÃO CLÍNICA NA ATENÇÃO PRIMÁRIA À SAÚDE"
+  },
+  {
+   "codigo": "0209040068",
+   "nome": "ECOBRONCOSCOPIA - EBUS"
+  },
+  {
+   "codigo": "0209040076",
+   "nome": "ECOENDOSCOPIA - EUS"
+  },
+  {
+   "codigo": "0211020109",
+   "nome": "COLETA DE ELETROCARDIOGRAMA NA APS"
+  },
+  {
+   "codigo": "0211060291",
+   "nome": "TRIAGEM OCULAR NEONATAL (TON)"
+  },
+  {
+   "codigo": "0211060305",
+   "nome": "TESTE DO REFLEXO VERMELHO (TRV)"
+  },
+  {
+   "codigo": "0301040249",
+   "nome": "AVALIAÇÃO DE LESÕES E CONDIÇÕES DA PELE E ANEXOS POR DERMATOSCOPIA."
+  },
+  {
+   "codigo": "0301040257",
+   "nome": "MEDIÇÃO DA FORÇA MUSCULAR"
+  },
+  {
+   "codigo": "0410010227",
+   "nome": "PLÁSTICA MAMÁRIA RECONSTRUTIVA (UNILATERAL) COM/SEM IMPLANTE DE PRÓTESE APÓS MUTILAÇÃO TOTAL OU PARCIAL COM SIMETRIZAÇÃO CONTRALATERAL"
+  },
+  {
+   "codigo": "0804010072",
+   "nome": "TELEDIAGNÓSTICO SÍNCRONO PARA DERMATOSCOPIA"
+  },
+  {
+   "codigo": "0804020060",
+   "nome": "SOLICITAÇÃO DE TELEDIAGNÓSTICO ASSÍNCRONO EM DERMATOLOGIA"
+  },
+  {
+   "codigo": "0804020078",
+   "nome": "SOLICITAÇÃO DE TELEDIAGNÓSTICO ASSÍNCRONO PARA ECG"
+  },
+  {
+   "codigo": "0909010013",
+   "nome": "OCI AVALIAÇÃO INICIAL ESPECIALIZADA DO PACIENTE COMDOENÇA RENAL CRÔNICA"
+  },
+  {
+   "codigo": "0909010021",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO ESPECIALIZADA DO PACIENTE COM DOENÇA RENAL CRÔNICA I"
+  },
+  {
+   "codigo": "0909010030",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO ESPECIALIZADA DO PACIENTE COM DOENÇA RENAL CRÔNICA II"
+  },
+  {
+   "codigo": "0909010048",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO ESPECIALIZADA DO PACIENTE COM DOENÇA RENAL CRÔNICA - III"
+  },
+  {
+   "codigo": "0909010056",
+   "nome": "OCI PREPARAÇÃO DE PACIENTE COM DOENÇA RENAL CRÔNICA PARA DIÁLISE PERITONEAL - IMPLANTE DE CATETER"
+  },
+  {
+   "codigo": "0909010064",
+   "nome": "OCI PREPARAÇÃO DE PACIENTES COM DOENÇA RENAL CRÔNICA PARA HEMODIÁLISE - FÍSTULA ARTERIOVENOSA"
+  }
+ ],
+ "excluidos": [
+  {
+   "codigo": "0410010090",
+   "nome": "PLASTICA MAMÁRIA RECONSTRUTIVA PÓS MASTECTOMIA C/ IMPLANTE DE PRÓTESE"
+  },
+  {
+   "codigo": "0410010219",
+   "nome": "RECONSTRUÇÃO MAMÁRIA PÓS-MASTECTOMIA TOTAL"
+  }
+ ],
+ "reajustados": [
+  {
+   "codigo": "0304020125",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE ADRENAL AVANÇADO",
+   "antes": 1300.0,
+   "agora": 6000.0,
+   "variacao": 3.6154
+  },
+  {
+   "codigo": "0702080012",
+   "nome": "EXPANSOR TECIDUAL",
+   "antes": 612.0,
+   "agora": 2000.0,
+   "variacao": 2.268
+  },
+  {
+   "codigo": "0904010023",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE DÉFICIT AUDITIVO",
+   "antes": 150.0,
+   "agora": 471.57,
+   "variacao": 2.1438
+  },
+  {
+   "codigo": "0906010012",
+   "nome": "GIN1 - AVALIAÇÃO DIAGNÓSTICA INICIAL DE SAÚDE DA MULHER (GINECOLOGIA) I",
+   "antes": 88.4,
+   "agora": 199.95,
+   "variacao": 1.2619
+  },
+  {
+   "codigo": "0906010020",
+   "nome": "OCI - GIN1 - AVALIAÇÃO DIAGNÓSTICA INICIAL DE SAÚDE DA MULHER (GINECOLOGIA) II",
+   "antes": 88.4,
+   "agora": 199.95,
+   "variacao": 1.2619
+  },
+  {
+   "codigo": "0902010050",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA II - SÍNDROME CORONARIANA CRÔNICA",
+   "antes": 840.0,
+   "agora": 1879.8,
+   "variacao": 1.2379
+  },
+  {
+   "codigo": "0702080039",
+   "nome": "PROTESE MAMARIA DE SILICONE",
+   "antes": 744.0,
+   "agora": 1500.0,
+   "variacao": 1.0161
+  },
+  {
+   "codigo": "0904010031",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE",
+   "antes": 200.0,
+   "agora": 393.55,
+   "variacao": 0.9678
+  },
+  {
+   "codigo": "0903010038",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E TOMOGRAFIA COMPUTADORIZADA",
+   "antes": 230.0,
+   "agora": 417.15,
+   "variacao": 0.8137
+  },
+  {
+   "codigo": "0901010014",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE CÂNCER DE MAMA",
+   "antes": 125.0,
+   "agora": 222.45,
+   "variacao": 0.7796
+  },
+  {
+   "codigo": "0903010046",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E RESSONÂNCIA MAGNÉTICA",
+   "antes": 360.0,
+   "agora": 616.76,
+   "variacao": 0.7132
+  },
+  {
+   "codigo": "0906010055",
+   "nome": "OCI - GIN3 - PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE SAÚDE DA MULHER (GINECOLOGIA)- ENDOMETRIOSE PROFUNDA- CASOS COMPLEXOS E PROGRAMAÇÃO CIRÚRGICA",
+   "antes": 372.49,
+   "agora": 599.88,
+   "variacao": 0.6105
+  },
+  {
+   "codigo": "0903010020",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E ULTRASSONOGRAFIA",
+   "antes": 140.0,
+   "agora": 216.83,
+   "variacao": 0.5488
+  },
+  {
+   "codigo": "0901010049",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA",
+   "antes": 300.0,
+   "agora": 443.54,
+   "variacao": 0.4785
+  }
+ ],
+ "alterados": [
+  {
+   "codigo": "0211020095",
+   "nome": "TELE-ELETROCARDIOGRAMA SÍNCRONO/LAUDO",
+   "mudancas": [
+    {
+     "campo": "complexidade",
+     "rotulo": "Complexidade",
+     "antes": "Média Complexidade",
+     "agora": "Atenção Básica"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NA EMISSÃO DE LAUDO MÉDICO CONDUZIDA À DISTÂNCIA SOBRE EXAME DE ELETROCARDIOGRAMA REALIZADO NO ÂMBITO DO ATENDIMENTO PRÉ-HOSPITALAR DO SAMU 192 PARA AVALIAR A ATIVIDADE ELÉTRICA DO CORAÇÃO, OBSERVANDO O RITMO, A QUANTIDADE E A VEL…",
+     "agora": "CONSISTE NA EMISSÃO DE LAUDO MÉDICO CONDUZIDA À DISTÂNCIA SOBRE EXAME DE ELETROCARDIOGRAMA REALIZADO NO ÂMBITO DA ATENÇÃO PRIMÁRIA À SAÚDE E DO ATENDIMENTO PRÉ-HOSPITALAR DO SAMU 192 PARA AVALIAR A ATIVIDADE ELÉTRICA DO CORAÇÃO,OBSERVANDO …"
+    },
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "FAEC",
+     "agora": "PAB"
+    },
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-I",
+     "agora": "BPA-I / e-SUS"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "Telemedicina em Urgência",
+     "agora": ""
+    }
+   ]
+  },
+  {
+   "codigo": "0304020125",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE ADRENAL AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "qtMaxExecucao",
+     "rotulo": "Qtd. máxima de execução",
+     "antes": 1,
+     "agora": 6
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0901010049",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "2 itens",
+     "agora": "5 itens",
+     "detalhe": "+0201010410 - BIÓPSIA DE PRÓSTATA, 0203020030 - EXAME ANATOMO-PATOLÓGICO P…, PARAFINA POR PEÇA CIRURGICA OU POR BIOP…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "FINALIDADE DE PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA, ENCAMINHAMENTO E GESTÃO DO CUIDADO DE USUÁRIOS QUE NECESSITEM DE ATENÇÃO ESPECIALIZADA POR MEIO DO CONJUNTO DE PROCEDIMENTOS: CONSULTA MÉDICA ESPECIALIZADA,||ULTRASSONOGRAFIA DE PRÓSTATA, …",
+     "agora": "FINALIDADE DE PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA, ENCAMINHAMENTO E GESTÃO DO CUIDADO DE USUÁRIOS QUE NECESSITEM DE ATENÇÃO ESPECIALIZADA POR MEIO DO CONJUNTO DE PROCEDIMENTOS: CONSULTA MÉDICA ESPECIALIZADA, ULTRASSONOGRAFIA DE PRÓSTATA, B…"
+    },
+    {
+     "campo": "obrigatoria",
+     "rotulo": "Obrigatórias",
+     "antes": "4 itens",
+     "agora": "0205020119 - ULTRASSONOGRAFIA DE PROSTATA (VIA TRANSRETAL)",
+     "detalhe": "−0201010410 - BIÓPSIA DE PRÓSTATA, 0203020030 - EXAME ANATOMO-PATOLÓGICO P…, PARAFINA POR PEÇA CIRURGICA OU POR BIOP…"
+    }
+   ]
+  },
+  {
+   "codigo": "0904010031",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "0301010072 - CONSULTA MEDICA EM ATENÇÃO ESPECIALIZADA",
+     "agora": "3 itens",
+     "detalhe": "+0209040025 - LARINGOSCOPIA, 0209040041 - VIDEOLARINGOSCOPIA"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "FINALIDADE DE AVALIAÇÃO DIAGNÓSTICA, ENCAMINHAMENTO E GESTÃO DO CUIDADO DE USUÁRIOS QUE NECESSITEM DE ATENÇÃO ESPECIALIZADA POR MEIO DO CONJUNTO DE PROCEDIMENTOS: CONSULTA MÉDICA ESPECIALIZADA, VIDEOLARINGOSCOPIA E||LARINGOSCOPIA.",
+     "agora": "FINALIDADE DE AVALIAÇÃO DIAGNÓSTICA, ENCAMINHAMENTO E GESTÃO DO CUIDADO DE USUÁRIOS QUE NECESSITEM DE ATENÇÃO ESPECIALIZADA POR MEIO DO CONJUNTO DE PROCEDIMENTOS: CONSULTA MÉDICA ESPECIALIZADA, VIDEOLARINGOSCOPIA OU LARINGOSCOPIA.||||"
+    },
+    {
+     "campo": "obrigatoria",
+     "rotulo": "Obrigatórias",
+     "antes": "0209040025 - LARINGOSCOPIA / 0209040041 - VIDEOLARINGOSCOPIA",
+     "agora": "",
+     "detalhe": "−0209040025 - LARINGOSCOPIA, 0209040041 - VIDEOLARINGOSCOPIA"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010228",
+   "nome": "DOSAGEM DE CALCIO IONIZAVEL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    },
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-C / BPA-I / AIH-S",
+     "agora": "BPA-C / BPA-I / AIH-S / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0202020070",
+   "nome": "DETERMINAÇÃO DE TEMPO DE COAGULAÇÃO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "",
+     "agora": "2 itens",
+     "detalhe": "+0909010056 - OCI PREPARAÇÃO DE PACIENTE…, 0909010064 - OCI PREPARAÇÃO DE PACIENTE…"
+    },
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-C / BPA-I / AIH-S",
+     "agora": "BPA-C / BPA-I / AIH-S / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0202050017",
+   "nome": "ANALISE DE CARACTERES FISICOS, ELEMENTOS E SEDIMENTO DA URINA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    },
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-C / BPA-I / AIH-S",
+     "agora": "BPA-C / BPA-I / AIH-S / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0301010315",
+   "nome": "TELECONSULTA POR PROFISSIONAIS DE NÍVEL SUPERIOR NA ATENÇÃO ESPECIALIZADA (EXCETO MÉDICO)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "0902010077 - OCI GESTÃO DO PRÉ-OPERATÓRIO",
+     "agora": "5 itens",
+     "detalhe": "+0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010056 - OCI PREPARAÇÃO DE PACIENTE…"
+    },
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3808",
+     "detalhe": "+3808"
+    }
+   ]
+  },
+  {
+   "codigo": "0301040176",
+   "nome": "INSERÇÃO DO IMPLANTE SUBDÉRMICO LIBERADOR DE ETONOGESTREL",
+   "mudancas": [
+    {
+     "campo": "idadeMax",
+     "rotulo": "Idade máxima",
+     "antes": 55,
+     "agora": 49
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 10,
+     "agora": 14
+    }
+   ]
+  },
+  {
+   "codigo": "0301040184",
+   "nome": "RETIRADA DO IMPLANTE SUBDÉRMICO LIBERADOR DE ETONOGESTREL",
+   "mudancas": [
+    {
+     "campo": "idadeMax",
+     "rotulo": "Idade máxima",
+     "antes": 55,
+     "agora": 49
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 10,
+     "agora": 14
+    }
+   ]
+  },
+  {
+   "codigo": "0301140014",
+   "nome": "ATENDIMENTO DE PACIENTE EM CUIDADOS PALIATIVOS",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "167 itens",
+     "agora": "",
+     "detalhe": "−223119-Médico em eletroencefalografia, 223150-Médico perito, 2231A1-Médico broncoesofalogista, 2231F8-Médico em medicina preventiva e …, 2231F9-Médico residente…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "113 - 002 / 113 - 004",
+     "agora": "",
+     "detalhe": "−113 - 002, 113 - 004"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010016",
+   "nome": "ATENDIMENTO EM CUIDADOS PALIATIVOS NA ATENÇÃO ESPECIALIZADA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "152 itens",
+     "agora": "",
+     "detalhe": "−223119-Médico em eletroencefalografia, 223150-Médico perito, 2231A1-Médico broncoesofalogista, 2231F8-Médico em medicina preventiva e …, 2231F9-Médico residente…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311020020",
+   "nome": "ATIVIDADE EDUCATIVA EM CUIDADOS PALIATIVOS COM PROFISSIONAIS DA RAS..",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "226320-Naturólogo",
+     "agora": "",
+     "detalhe": "−226320-Naturólogo"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311020038",
+   "nome": "ATIVIDADE EDUCATIVA EM CUIDADOS PALIATIVOS COM GRUPO DE FAMILIARES DE PACIENTES",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "226320-Naturólogo",
+     "agora": "",
+     "detalhe": "−226320-Naturólogo"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311020046",
+   "nome": "ATIVIDADE EDUCATIVA EM CUIDADOS PALIATIVOS COM A COMUNIDADE",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "226320-Naturólogo",
+     "agora": "",
+     "detalhe": "−226320-Naturólogo"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0418010030",
+   "nome": "CONFECCAO DE FISTULA ARTERIO-VENOSA P/ HEMODIALISE",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "CONSISTE NA CRIAÇÃO DE UMA COMUNICAÇÃO DIRETA (ANASTOMOSE) ENTRE UMA ARTÉRIA E UMA VEIA SUPERFICIAL, COM O OBJETIVODE ESTABELECER UM ACESSO VASCULAR DE ALTO FLUXO E LONGA PERMANÊNCIA EM PACIENTES COM DOENÇA RENAL CRÔNICA EM ESTÁDIO FINAL Q…"
+    },
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "APAC-P",
+     "agora": "APAC-P / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0418010080",
+   "nome": "IMPLANTE DE CATETER TIPO TENCKHOFF OU SIMILAR P/ DPA/DPAC",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO PARA A INSTALAÇÃO DE ACESSO PERMANENTE NA CAVIDADE ABDOMINAL ATRAVÉS DE CATETER ESPECÍFICO DESTINADO À DIÁLISE PERITONEAL."
+    },
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "APAC-P",
+     "agora": "APAC-P / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010228",
+   "nome": "ACOMPANHAMENTO DE PACIENTE NO PRÉ-TRANSPLANTE DE INTESTINO DELGADO OU DE ÓRGÃOS MULTIVISCERAIS EM BLOCO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM CONSULTA BIMESTRAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO EACOMPANHAMENTO DE CANDIDATOS A TRANSPLANTE DE INTESTINO DELGADO OU DE ÓRGÃOS MULTIVISCERAIS EM BLOCO.",
+     "agora": "CONSISTE EM CONSULTA BIMESTRAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO DE CANDIDATOS A TRANSPLANTE DE INTESTINO DELGADO OU DE ÓRGÃOS MULTIVISCERAIS EM BLOCO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATE…"
+    },
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2308 / 2466",
+     "agora": "2308 / 2466 / 2490 / 2491",
+     "detalhe": "+2490, 2491"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010236",
+   "nome": "ACOMPANHAMENTO DE PACIENTE NO PÓS-TRANSPLANTE DE INTESTINO DELGADO OU DE ÓRGÃOS MULTIVISCERAIS EM BLOCO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE INTESTINO DELGADO, OU ÓRGÃOS MULTIVISCERAIS EM BLOCO, MENSALMENTE NOPRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DOPACIENTE TRANSPLANTADO DE INTESTINO DELGADO, OU ÓRGÃOS MULTIVISCERAIS EM BLOCO, MENSALMENTE NO PRIMEIRO ANO APÓS OTRANSPLANTE E BIMESTRALMENTE A PARTIR DOSEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER RE…"
+    },
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2308 / 2466",
+     "agora": "2308 / 2466 / 2490 / 2491",
+     "detalhe": "+2490, 2491"
+    }
+   ]
+  },
+  {
+   "codigo": "0201010410",
+   "nome": "BIÓPSIA DE PRÓSTATA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0901010049 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010210",
+   "nome": "DOSAGEM DE CALCIO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "15 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010317",
+   "nome": "DOSAGEM DE CREATININA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "16 itens",
+     "agora": "17 itens",
+     "detalhe": "+0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010384",
+   "nome": "DOSAGEM DE FERRITINA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "13 itens",
+     "detalhe": "+0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010422",
+   "nome": "DOSAGEM DE FOSFATASE ALCALINA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "13 itens",
+     "detalhe": "+0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010430",
+   "nome": "DOSAGEM DE FOSFORO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "14 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010600",
+   "nome": "DOSAGEM DE POTASSIO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "16 itens",
+     "agora": "21 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010056 - OCI PREPARAÇÃO DE PACIENTE…, 0909010064 - OCI PREPARAÇÃO DE PACIENTE…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010627",
+   "nome": "DOSAGEM DE PROTEINAS TOTAIS E FRACOES",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "14 itens",
+     "detalhe": "+0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010635",
+   "nome": "DOSAGEM DE SODIO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "15 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010660",
+   "nome": "DOSAGEM DE TRANSFERRINA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "9 itens",
+     "agora": "11 itens",
+     "detalhe": "+0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010694",
+   "nome": "DOSAGEM DE UREIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "16 itens",
+     "agora": "18 itens",
+     "detalhe": "+0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010732",
+   "nome": "GASOMETRIA (PH PCO2 PO2 BICARBONATO AS2 (EXCESSO OU DEFICIT BASE )",
+   "mudancas": [
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-C / BPA-I / AIH-S",
+     "agora": "BPA-C / BPA-I / AIH-S / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0202010767",
+   "nome": "DOSAGEM DE 25 HIDROXIVITAMINA D",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "7 itens",
+     "agora": "9 itens",
+     "detalhe": "+0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202020134",
+   "nome": "DETERMINAÇÃO DE TEMPO DE TROMBOPLASTINA PARCIAL ATIVADA (TTP ATIVADA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "0902010077 - OCI GESTÃO DO PRÉ-OPERATÓRIO",
+     "agora": "2 itens",
+     "detalhe": "+0909010056 - OCI PREPARAÇÃO DE PACIENTE…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202020142",
+   "nome": "DETERMINAÇÃO DE TEMPO E ATIVIDADE DA PROTROMBINA (TAP)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "0902010077 - OCI GESTÃO DO PRÉ-OPERATÓRIO",
+     "agora": "3 itens",
+     "detalhe": "+0909010056 - OCI PREPARAÇÃO DE PACIENTE…, 0909010064 - OCI PREPARAÇÃO DE PACIENTE…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202020380",
+   "nome": "HEMOGRAMA COMPLETO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "20 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010056 - OCI PREPARAÇÃO DE PACIENTE……"
+    }
+   ]
+  },
+  {
+   "codigo": "0202050092",
+   "nome": "DOSAGEM DE MICROALBUMINA NA URINA",
+   "mudancas": [
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-C / BPA-I / AIH-S",
+     "agora": "BPA-C / BPA-I / AIH-S / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0202060276",
+   "nome": "DOSAGEM DE PARATORMONIO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "13 itens",
+     "detalhe": "+0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0203020030",
+   "nome": "EXAME ANATOMO-PATOLÓGICO PARA CONGELAMENTO / PARAFINA POR PEÇA CIRURGICA OU POR BIOPSIA (EXCETO COLO UTERINO E MAMA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "8 itens",
+     "agora": "9 itens",
+     "detalhe": "+0901010049 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0205010032",
+   "nome": "ECOCARDIOGRAFIA TRANSTORACICA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3801 / 3805 / 3806",
+     "agora": "3801 / 3804 / 3805 / 3806",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0205010040",
+   "nome": "ULTRASSONOGRAFIA DOPPLER COLORIDO DE VASOS",
+   "mudancas": [
+    {
+     "campo": "registro",
+     "rotulo": "Registro",
+     "antes": "BPA-I / AIH-E / APAC-P",
+     "agora": "BPA-I / AIH-E / APAC-P / APAC-S"
+    }
+   ]
+  },
+  {
+   "codigo": "0206030045",
+   "nome": "CONTRASTE PARA TOMOGRAFIA COMPUTADORIZADA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3805",
+     "agora": "3801 / 3805 / 3806",
+     "detalhe": "+3801, 3806"
+    }
+   ]
+  },
+  {
+   "codigo": "0209040025",
+   "nome": "LARINGOSCOPIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0904010031 - OCI AVALIAÇÃO DIAGNÓSTICA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0209040041",
+   "nome": "VIDEOLARINGOSCOPIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0904010031 - OCI AVALIAÇÃO DIAGNÓSTICA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0211020044",
+   "nome": "MONITORAMENTO PELO SISTEMA HOLTER 24 HS (3 CANAIS)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0211020052",
+   "nome": "MONITORIZACAO AMBULATORIAL DE PRESSAO ARTERIAL (M.A.P.A)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0301010048",
+   "nome": "CONSULTA DE PROFISSIONAIS DE NIVEL SUPERIOR NA ATENÇÃO ESPECIALIZADA (EXCETO MÉDICO)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "3 itens",
+     "agora": "7 itens",
+     "detalhe": "+0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010056 - OCI PREPARAÇÃO DE PACIENTE…"
+    }
+   ]
+  },
+  {
+   "codigo": "0301010072",
+   "nome": "CONSULTA MEDICA EM ATENÇÃO ESPECIALIZADA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "44 itens",
+     "agora": "50 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010056 - OCI PREPARAÇÃO DE PACIENTE……"
+    }
+   ]
+  },
+  {
+   "codigo": "0301010307",
+   "nome": "TELECONSULTA MÉDICA NA ATENÇÃO ESPECIALIZADA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "32 itens",
+     "agora": "38 itens",
+     "detalhe": "+0909010013 - OCI AVALIAÇÃO INICIAL ESPE…, 0909010021 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010030 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010048 - OCI PROGRESSÃO DA AVALIAÇÃ…, 0909010056 - OCI PREPARAÇÃO DE PACIENTE……"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010032",
+   "nome": "ATENDIMENTO EM CUIDADOS PALIATIVOS A FAMILIAR E/OU CUIDADOR",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010040",
+   "nome": "INTERCONSULTA EM CUIDADOS PALIATIVOS (SOLICITANTE)",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010059",
+   "nome": "INTERCONSULTA EM CUIDADOS PALIATIVOS (EXECUTANTE)",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010067",
+   "nome": "ATENDIMENTO AO PROCESSO DE LUTO",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010075",
+   "nome": "GRUPO DE APOIO AO LUTO",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010083",
+   "nome": "ATENDIMENTO DE CUIDADOS PALIATIVOS EM PROCESSO ATIVO DE MORTE",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010091",
+   "nome": "REGISTRO DE PLANEJAMENTO ANTECIPADO DE CUIDADOS",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311010105",
+   "nome": "REGISTRO DE DIRETIVAS ANTECIPADAS DE VONTADE",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311020054",
+   "nome": "CONTATO COM A REDE DE ATENÇÃO À SAÚDE PARA IDENTIFICAÇÃO DE DEMANDAS EM CUIDADOS PALIATIVOS",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311020062",
+   "nome": "CONSULTORIA EM CUIDADOS PALIATIVOS PARA PROFISSIONAIS DE SAÚDE (SOLICITANTE)",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0311020070",
+   "nome": "CONSULTORIA EM CUIDADOS PALIATIVOS PARA PROFISSIONAIS DE SAÚDE (EXECUTANTE)",
+   "mudancas": [
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "171 - 001 / 171 - 002 / 171 - 003",
+     "agora": "",
+     "detalhe": "−171 - 001, 171 - 002, 171 - 003"
+    }
+   ]
+  },
+  {
+   "codigo": "0410010073",
+   "nome": "PLASTICA MAMÁRIA FEMININA NAO ESTETICA",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0410010227 - PLÁSTICA MAMÁRIA RECONSTRU…"
+    }
+   ]
+  },
+  {
+   "codigo": "0415010012",
+   "nome": "TRATAMENTO C/ CIRURGIAS MULTIPLAS",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "133 itens",
+     "agora": "132 itens",
+     "detalhe": "−0410010219 - RECONSTRUÇÃO MAMÁRIA PÓS-M…"
+    }
+   ]
+  },
+  {
+   "codigo": "0415020034",
+   "nome": "OUTROS PROCEDIMENTOS COM CIRURGIAS SEQUENCIAIS",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "737 itens",
+     "agora": "736 itens",
+     "detalhe": "−0410010219 - RECONSTRUÇÃO MAMÁRIA PÓS-M…"
+    }
+   ]
+  },
+  {
+   "codigo": "0416120024",
+   "nome": "MASTECTOMIA RADICAL COM LINFADENECTOMIA AXILAR EM ONCOLOGIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "11 itens",
+     "detalhe": "+0410010227 - PLÁSTICA MAMÁRIA RECONSTRU…; −0410010090 - PLASTICA MAMÁRIA RECONSTRU…, 0410010219 - RECONSTRUÇÃO MAMÁRIA PÓS-M…"
+    }
+   ]
+  },
+  {
+   "codigo": "0416120032",
+   "nome": "MASTECTOMIA SIMPLES EM ONCOLOGIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "11 itens",
+     "detalhe": "+0410010227 - PLÁSTICA MAMÁRIA RECONSTRU…; −0410010090 - PLASTICA MAMÁRIA RECONSTRU…, 0410010219 - RECONSTRUÇÃO MAMÁRIA PÓS-M…"
+    }
+   ]
+  },
+  {
+   "codigo": "0418010013",
+   "nome": "CONFECCAO DE FISTULA ARTERIO-VENOSA C/ ENXERTIA DE POLITETRAFLUORETILENO (PTFE)",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO COM A FINALIDADE DE CRIAR UM ACESSO VASCULAR PERMANENTE ATRAVÉS DE UMA FÍSTULA ARTERIOVENOSA (FAV) UTILIZANDO MATERIAL SINTÉTICO BIOCOMPATÍVEL EM PACIENTES COM DOENÇA RENAL CRÔNICA EM ESTÁDIO FINAL QUE NECESSITAM DE …"
+    }
+   ]
+  },
+  {
+   "codigo": "0418010021",
+   "nome": "CONFECCAO DE FISTULA ARTERIO-VENOSA C/ ENXERTO AUTOLOGO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO PARA CRIAÇÃO DE ACESSO VASCULAR PERMANENTE ATRAVÉS DE UMA FÍSTULA ARTERIOVENOSA (FAV) UTILIZANDO UM SEGMENTO DE VASO SANGUÍNEO DO PRÓPRIO PACIENTE(GERALMENTE UMA VEIA) PARA PACIENTES COM DOENÇA RENAL CRÔNICA EM ESTÁD…"
+    }
+   ]
+  },
+  {
+   "codigo": "0418010048",
+   "nome": "IMPLANTE DE CATETER DE LONGA PERMANÊNCIA P/ HEMODIALISE",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO PARA A INSERÇÃO DE DISPOSITIVO DE ACESSO VENOSO CENTRAL TUNELIZADO UTILIZADO EM PACIENTES QUE NECESSITEM DE HEMODIÁLISE POR PERÍODOS PROLONGADOS."
+    }
+   ]
+  },
+  {
+   "codigo": "0418010064",
+   "nome": "IMPLANTE DE CATETER DUPLO LUMEN P/HEMODIALISE",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO PARA A INSERÇÃO DE DISPOSITIVO DE ACESSO VENOSO CENTRAL EM UMA VEIA PROFUNDA PARA REALIZAÇÃO DE HEMODIÁLISE POR PERÍODOS DE CURTOS DE TEMPO."
+    }
+   ]
+  },
+  {
+   "codigo": "0418010099",
+   "nome": "IMPLANTE DE CATETER TIPO TENCKOFF OU SIMILAR P/DPI",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO PARA A INSTALAÇÃO DE ACESSO PERMANENTE NA CAVIDADE ABDOMINAL, ATRAVÉS DE CATETER ESPECÍFICO DESTINADO À DIÁLISE PERITONEAL INTERMITENTE."
+    }
+   ]
+  },
+  {
+   "codigo": "0418020019",
+   "nome": "INTERVENCAO EM FÍSTULA ARTERIO-VENOSA",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO REALIZADO PARA RESGATAR, MANTER OU OTIMIZARO FUNCIONAMENTO FÍSTULA ARTÉRIO VENOSA(FAV) PARA HEMODIÁLISE."
+    }
+   ]
+  },
+  {
+   "codigo": "0418020027",
+   "nome": "LIGADURA DE FISTULA ARTERIO-VENOSA",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "FECHAMENTO (SECÇÃO ESUTURA) DA COMUNICAÇÃO ENTRE A ARTÉRIA E AVEIA, RESTABELECENDO A CIRCULAÇÃO NORMALDO MEMBRO."
+    }
+   ]
+  },
+  {
+   "codigo": "0418020035",
+   "nome": "RETIRADA DE CATETER TIPO TENCKHOFF / SIMILAR DE LONGA PERMANÊNCIA",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "",
+     "agora": "PROCEDIMENTO CIRÚRGICO PARA RETIRADA DE CATETER UTILIZADO EM DIÁLISE PERITONEAL. PODE SER REALIZADO COM SEDAÇÃO OU ANESTESIA LOCAL."
+    }
+   ]
+  },
+  {
+   "codigo": "0501030069",
+   "nome": "COLETA E ACONDICIONAMENTO DE MEDULA OSSEA NO BRASIL PARA TRANSPLANTE AUTOGENICO OU DE DOADOR APARENTADO OU NAO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401 / 2402 / 2403 / 2416 / 2418 / 2471",
+     "agora": "14 itens",
+     "detalhe": "+2472, 2473, 2474, 2475, 2476…"
+    }
+   ]
+  },
+  {
+   "codigo": "0501030077",
+   "nome": "MOBILIZAÇÃO, COLETA E ACONDICIONAMENTO DE CELULAS TRONCO HEMATOPOETICAS DE SANGUE PERIFERICO NO BRASIL PARA TRANSPLANTE AUTOGENICO OU DE DOADOR APARENTADO OU NAO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401 / 2402 / 2403 / 2471",
+     "agora": "12 itens",
+     "detalhe": "+2472, 2473, 2474, 2475, 2476…"
+    }
+   ]
+  },
+  {
+   "codigo": "0501030093",
+   "nome": "PROCESSAMENTO DE CRIOPRESERVAÇÃO DE MEDULA OSSEA OU DE CELULAS TRONCO HEMATOPOETICAS DE SANGUE PERIFERICO NO BRASIL PARA TRANSPLANTE AUTOGENICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401 / 2402 / 2403 / 2416 / 2418 / 2471",
+     "agora": "14 itens",
+     "detalhe": "+2472, 2473, 2474, 2475, 2476…"
+    }
+   ]
+  },
+  {
+   "codigo": "0501030107",
+   "nome": "FORNECIMENTO E ACONDICIONAMENTO E TRANSPORTE NO BRASIL DE LINFOCITOS DE DOADOR NAO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401 / 2402 / 2403 / 2471",
+     "agora": "12 itens",
+     "detalhe": "+2472, 2473, 2474, 2475, 2476…"
+    }
+   ]
+  },
+  {
+   "codigo": "0501050043",
+   "nome": "EXAMES DE PACIENTES EM LISTA DE ESPERA PARA TRANSPLANTES",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2404 / 2408 / 2409 / 2410 / 2411",
+     "agora": "15 itens",
+     "detalhe": "+2480, 2481, 2482, 2483, 2484…"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070044",
+   "nome": "EXAMES PARA A INCLUSAO EM LISTA DE CANDIDATOS A TRANSPLANTE DE CORACAO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2411",
+     "agora": "2411 / 2488 / 2489",
+     "detalhe": "+2488, 2489"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070052",
+   "nome": "EXAMES PARA INCLUSÃO EM LISTA DE CANDIDATOS A TRANSPLANTE DE FIGADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2409",
+     "agora": "2409 / 2484 / 2485",
+     "detalhe": "+2484, 2485"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070087",
+   "nome": "EXAMES PARA INVESTIGAÇÃO CLÍNICA NO DOADOR VIVO DE RIM, FIGADO OU PULMÃO - 1ª FASE.",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408 / 2409 / 2410",
+     "agora": "2408 / 2409 / 2410 / 2482 / 2483 / 2484 / 2485 / 2486 / 2487",
+     "detalhe": "+2482, 2483, 2484, 2485, 2486…"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070095",
+   "nome": "EXAMES PARA INVESTIGAÇÃO CLÍNICA NO DOADOR VIVO DE FIGADO-COMPLEMENTAÇÃO DA 1ª FASE.",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2409",
+     "agora": "2409 / 2484 / 2485",
+     "detalhe": "+2484, 2485"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070109",
+   "nome": "EXAMES PARA INVESTIGAÇÃO CLÍNICA NO DOADOR VIVO DE RIM- COMPLEMENTAÇÃO DA 1ª FASE.",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070117",
+   "nome": "EXAMES PARA INVESTIGAÇÃO CLÍNICA NO DOADOR VIVO DE PULMÃO-COMPLEMENTAÇÃO DA 1ª FASE.",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2410",
+     "agora": "2410 / 2486 / 2487",
+     "detalhe": "+2486, 2487"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070125",
+   "nome": "EXAMES PARA INCLUSÃO EM LISTA DE CANDIDATOS A TRANSPLANTE DE PÂNCREAS",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2404",
+     "agora": "2404 / 2480 / 2481",
+     "detalhe": "+2480, 2481"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070133",
+   "nome": "EXAMES PARA INCLUSÃO EM LISTA DE CANDIDATOS A TRANSPLANTE DE RIM",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0501070141",
+   "nome": "EXAMES PARA INCLUSÃO EM LISTA DE CANDIDATOS A TRANSPLANTE DE PULMÃO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2410",
+     "agora": "2410 / 2486 / 2487",
+     "detalhe": "+2486, 2487"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010011",
+   "nome": "TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS DE MEDULA ÓSSEA - APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2402 / 2471",
+     "agora": "2402 / 2471 / 2474 / 2475 / 2476 / 2477",
+     "detalhe": "+2474, 2475, 2476, 2477"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010020",
+   "nome": "TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS DE MEDULA ÓSSEA - NÃO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2403",
+     "agora": "2403 / 2478 / 2479",
+     "detalhe": "+2478, 2479"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010038",
+   "nome": "TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS DE SANGUE DE CORDÃO UMBILICAL DE APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2402 / 2471",
+     "agora": "2402 / 2471 / 2474 / 2475 / 2476 / 2477",
+     "detalhe": "+2474, 2475, 2476, 2477"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010046",
+   "nome": "TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS DE SANGUE DE CORDÃO UMBILICAL DE NÃO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2403",
+     "agora": "2403 / 2478 / 2479",
+     "detalhe": "+2478, 2479"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010054",
+   "nome": "TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS DE SANGUE PERIFÉRICO - APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2402 / 2471",
+     "agora": "2402 / 2471 / 2474 / 2475 / 2476 / 2477",
+     "detalhe": "+2474, 2475, 2476, 2477"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010062",
+   "nome": "TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS DE SANGUE PERIFÉRICO - NÃO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2403",
+     "agora": "2403 / 2478 / 2479",
+     "detalhe": "+2478, 2479"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010070",
+   "nome": "TRANSPLANTE AUTOGENICO DE CELULAS-TRONCO HEMATOPOETICAS DE MEDULA OSSEA -",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401",
+     "agora": "2401 / 2472 / 2473",
+     "detalhe": "+2472, 2473"
+    }
+   ]
+  },
+  {
+   "codigo": "0505010089",
+   "nome": "TRANSPLANTE AUTOGENICO DE CELULAS-TRONCO HEMATOPOETICAS DE SANGUE PERIFERICO -",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401",
+     "agora": "2401 / 2472 / 2473",
+     "detalhe": "+2472, 2473"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020017",
+   "nome": "PARTICIPACAO DE EQUIPE NEFROLOGICA EM TRANSPLANTE RENAL DE DOADOR FALECIDO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020025",
+   "nome": "PARTICIPACAO DE EQUIPE NEFROLOGICA EM TRANSPLANTE RENAL DE DOADOR VIVO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020041",
+   "nome": "TRANSPLANTE DE CORACAO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2411",
+     "agora": "2411 / 2488 / 2489",
+     "detalhe": "+2488, 2489"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020050",
+   "nome": "TRANSPLANTE DE FIGADO (ORGAO DE DOADOR FALECIDO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2409",
+     "agora": "2409 / 2484 / 2485",
+     "detalhe": "+2484, 2485"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020068",
+   "nome": "TRANSPLANTE DE FIGADO (ORGAO DE DOADOR VIVO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2409",
+     "agora": "2409 / 2484 / 2485",
+     "detalhe": "+2484, 2485"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020076",
+   "nome": "TRANSPLANTE DE PANCREAS",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2404",
+     "agora": "2404 / 2480 / 2481",
+     "detalhe": "+2480, 2481"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020084",
+   "nome": "TRANSPLANTE DE PULMAO UNILATERAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2410",
+     "agora": "2410 / 2486 / 2487",
+     "detalhe": "+2486, 2487"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020092",
+   "nome": "TRANSPLANTE DE RIM (ORGAO DE DOADOR FALECIDO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020106",
+   "nome": "TRANSPLANTE DE RIM (ORGAO DE DOADOR VIVO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020122",
+   "nome": "TRANSPLANTE DE PULMÃO BILATERAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2410",
+     "agora": "2410 / 2486 / 2487",
+     "detalhe": "+2486, 2487"
+    }
+   ]
+  },
+  {
+   "codigo": "0505020149",
+   "nome": "TRANSPLANTE DE INTESTINO DELGADO OU DE ÓRGÃOS MULTIVISCERAIS EM BLOCO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2308 / 2466",
+     "agora": "2308 / 2466 / 2490 / 2491",
+     "detalhe": "+2490, 2491"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010066",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE MEDULA ÓSSEA - AUTOGÊNICO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CÉLULAS-TRONCO HEMATOPOÉTICAS, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CÉLULAS-TRONCO HEMATOPOÉTICAS, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDAD…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010074",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE MEDULA ÓSSEA - ALOGÊNICO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CELULAS-TRONCO HEMATOPOÉTICAS, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CELULAS-TRONCO HEMATOPOÉTICAS, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO. O PROCEDIMENTO||TAMBÉM PODERÁ SER REALIZADO NA MODALIDA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010082",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE MEDULA ÓSSEA - ALOGÊNICO NÃO APARENTADO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CÉLULAS-TRONCO HEMATOPOÉTICAS, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CÉLULAS-TRONCO HEMATOPOÉTICAS, MENSALMENTE NO PRIMEIRO||ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010090",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE PÂNCREAS",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE PÂNCREAS MENSALMENTE NO PRIMEIRO ANO APÓS O tRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE PÂNCREAS, MENSALMENTE NO PRIMEIRO ANO APÓS OTRANSPLANTE E BIMESTRALMENTE A PARTIR DOSEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ||SER REALIZADO NA MODALIDADE DETELEATENDIMENTO, D…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010104",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE RIM",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE RIM, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE RIM, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A||PARTIR DO SEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDIMENTO, DE …"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010112",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE FÍGADO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE FÍGADO, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE FÍGADO, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDIMENTO, D…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010120",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE PULMÃO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE PULMÃO, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE PULMÃO, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDIMENTO, D…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010139",
+   "nome": "ACOMPANHAMENTO DE PACIENTE POS-TRANSPLANTE DE CORAÇÃO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CORAÇÃO, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO PACIENTE TRANSPLANTADO DE CORAÇÃO, MENSALMENTE NO PRIMEIRO ANO APÓS O TRANSPLANTE E BIMESTRALMENTE A PARTIR DO SEGUNDO ANO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDIMENTO, …"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010147",
+   "nome": "ACOMPANHAMENTO DE DOADOR VIVO POS-DOAÇAO DE RIM",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO DOADOR VIVO APÓS DOAÇÃO DE RIM. O ACOMPANHAMENTO DEVE-SE DAR DUAS VEZES NO PRIMEIRO ANO DA DOAÇÃO E, APÓS, ANUALMENTE.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO DOADOR VIVO APÓS DOAÇÃO DE RIM. O ACOMPANHAMENTO DEVE-SE DAR DUAS VEZES NO PRIMEIRO ANO DA DOAÇÃO E, APÓS, ANUALMENTE. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA||MODALIDADE DE TELEATENDIMENTO, DE M…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010155",
+   "nome": "ACOMPANHAMENTO DE DOADOR VIVO POS-DOAÇAO DE FÍGADO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO DOADOR VIVO APÓS DOAÇÃO DE PARTE DE FÍGADO. O ACOMPANHAMENTO DEVE-SE DAR DUAS VEZES NO PRIMEIRO ANO DA DOAÇÃO E, APÓS, ANUALMENTE.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO DOADOR VIVO APÓS DOAÇÃO DE PARTE DE FÍGADO. O ACOMPANHAMENTO DEVE-SE DAR DUAS VEZES NO PRIMEIRO ANO DA DOAÇÃO E, APÓS, ANUALMENTE. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDI…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010163",
+   "nome": "ACOMPANHAMENTO DE DOADOR VIVO POS-DOAÇAO DE PULMÃO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO DOADOR VIVO APÓS DOAÇÃO DE PARTE DE PULMÃO. O ACOMPANHAMENTO DEVE-SE DAR DUAS VEZES NO PRIMEIRO ANO DA DOAÇÃO E, APÓS, ANUALMENTE.",
+     "agora": "CONSISTE NO ACOMPANHAMENTO CLÍNICO DO DOADOR VIVO APÓS DOAÇÃO DE PARTE DE PULMÃO. O ACOMPANHAMENTO DEVE-SE DAR DUAS VEZES NO PRIMEIRO ANO DA DOAÇÃO E, APÓS, ANUALMENTE. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDI…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010171",
+   "nome": "ACOMPANHAMENTO DE PACIENTES NO PRÉ TRANSPLANTE DE PÂNCREAS",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE PÂNCREAS.",
+     "agora": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ- TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE||PÂNCREAS. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDIMENTO, DE MANEIRA COMPLEMENTA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010180",
+   "nome": "ACOMPANHAMENTO DE PACIENTES NO PRÉ TRANSPLANTE DE RIM",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE RIM.",
+     "agora": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ- TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE RIM.||O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE TELEATENDIMENTO, DE MANEIRA COMPLEMENTAR AO …"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010198",
+   "nome": "ACOMPANHAMENTO DE PACIENTES NO PRÉ TRANSPLANTE DE FÍGADO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE FÍGADO.",
+     "agora": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE FÍGADO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE||TELEATENDIMENTO, DE MANEIRA COMPLEMENTAR A…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010201",
+   "nome": "ACOMPANHAMENTO DE PACIENTES NO PRÉ TRANSPLANTE DE PULMÃO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE PULMÃO.",
+     "agora": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE PULMÃO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE||TELEATENDIMENTO, DE MANEIRA COMPLEMENTAR A…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506010210",
+   "nome": "ACOMPANHAMENTO DE PACIENTES NO PRÉ TRANSPLANTE DE CORAÇÃO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE CORAÇÃO.",
+     "agora": "CONSISTE EM CONSULTA ANUAL REALIZADA POR MÉDICO, PARA AVALIAÇÃO E ACOMPANHAMENTO PRÉ-TRANSPLANTE DE CANDIDATOS A TRANSPLANTE DE CORAÇÃO. O PROCEDIMENTO TAMBÉM PODERÁ SER REALIZADO NA MODALIDADE DE||TELEATENDIMENTO, DE MANEIRA COMPLEMENTAR …"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020053",
+   "nome": "TRATAMENTO DE INTERCORRÊNCIA PÓS-TRANSPLANTE DE RIM - PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2408",
+     "agora": "2408 / 2482 / 2483",
+     "detalhe": "+2482, 2483"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020061",
+   "nome": "TRATAMENTO DE INTERCORRENCIA PÓS TRANSPLANTE DE CORAÇÃO- PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2411",
+     "agora": "2411 / 2488 / 2489",
+     "detalhe": "+2488, 2489"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020070",
+   "nome": "TRATAMENTO DE INTERCORRÊNCIA PÓS TRANSPLANTE DE PULMÃO UNI/BILATERAL - PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2410",
+     "agora": "2410 / 2486 / 2487",
+     "detalhe": "+2486, 2487"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020096",
+   "nome": "TRATAMENTO DE INTERCORRENCIA PÓS TRANSPLANTE DE FIGADO- PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2409",
+     "agora": "2409 / 2484 / 2485",
+     "detalhe": "+2484, 2485"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020100",
+   "nome": "TRATAMENTO DE INTERCORRENCIA PÓS TRANSPLANTE ALOGÊNICO DE CÉLULAS-TRONCO HEMATOPOÉTICAS- PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2402 / 2403 / 2471",
+     "agora": "2402 / 2403 / 2471 / 2474 / 2475 / 2476 / 2477 / 2478 / 2479",
+     "detalhe": "+2474, 2475, 2476, 2477, 2478…"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020118",
+   "nome": "TRATAMENTO DE INTERCORRENCIA PÓS TRANSPLANTE AUTOLÓGO DE CÉLULAS-TRONCO HEMATOPOÉTICAS- PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2401",
+     "agora": "2401 / 2472 / 2473",
+     "detalhe": "+2472, 2473"
+    }
+   ]
+  },
+  {
+   "codigo": "0506020134",
+   "nome": "TRATAMENTO DE INTERCORRENCIA PÓS TRANSPLANTE DE PÂNCREAS - PÓS TRANSPLANTE CRÍTICO",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2404",
+     "agora": "2404 / 2480 / 2481",
+     "detalhe": "+2480, 2481"
+    }
+   ]
+  },
+  {
+   "codigo": "0702080012",
+   "nome": "EXPANSOR TECIDUAL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "10 itens",
+     "agora": "10 itens",
+     "detalhe": "+0410010227 - PLÁSTICA MAMÁRIA RECONSTRU…; −0410010090 - PLASTICA MAMÁRIA RECONSTRU…"
+    }
+   ]
+  },
+  {
+   "codigo": "0702080039",
+   "nome": "PROTESE MAMARIA DE SILICONE",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "10 itens",
+     "agora": "10 itens",
+     "detalhe": "+0410010227 - PLÁSTICA MAMÁRIA RECONSTRU…; −0410010090 - PLASTICA MAMÁRIA RECONSTRU…"
+    }
+   ]
+  },
+  {
+   "codigo": "0802010121",
+   "nome": "DIÁRIA DE UNIDADE DE TERAPIA INTENSIVA NEONATAL - UTIN (TIPO II)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2610",
+     "agora": "2602 / 2610",
+     "detalhe": "+2602"
+    }
+   ]
+  },
+  {
+   "codigo": "0802010130",
+   "nome": "DIARIA DE UNIDADE DE TERAPIA INTENSIVA NEONATAL - UTIN (TIPO III)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "2611",
+     "agora": "2605 / 2611",
+     "detalhe": "+2605"
+    }
+   ]
+  },
+  {
+   "codigo": "0804010056",
+   "nome": "TELEINTERCONSULTA-SOLICITANTE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3808",
+     "detalhe": "+3808"
+    }
+   ]
+  },
+  {
+   "codigo": "0804010064",
+   "nome": "TELEINTERCONSULTA - EXECUTANTE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3808",
+     "detalhe": "+3808"
+    }
+   ]
+  },
+  {
+   "codigo": "0901010138",
+   "nome": "OCI DE IMUNOHISTOQUIMICA DE NEOPLASI MALIGNA DE MAMA",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "FINALIDADE DE AVALIAÇÃO DIAGNÓSTICA, ENCAMINHAMENTO E GESTÃO DO CUIDADO DE USUÁRIOS QUE NECESSITEM DE ATENÇÃO ESPECIALIZADA POR MEIO DO CONJUNTO DE PROCEDIMENTOS: CONSULTA MÉDICA ESPECIALIZADA, EXAME DE IMUNOHISTOQUIMICA, CONSULTA OU TELEC…",
+     "agora": "FINALIDADE DE AVALIAÇÃO DIAGNÓSTICA, ENCAMINHAMENTO E GESTÃO DO CUIDADO DE USUÁRIOS QUE NECESSITEM DE ATENÇÃO ESPECIALIZADA POR MEIO DO CONJUNTO DE PROCEDIMENTOS: EXAME DE IMUNOHISTOQUIMICA, CONSULTA OU TELECONSULTA MÉDICA ESPECIALIZADA DE…"
+    }
+   ]
+  }
+ ]
+}
