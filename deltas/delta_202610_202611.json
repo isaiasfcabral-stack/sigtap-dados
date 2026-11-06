@@ -1,0 +1,3760 @@
+{
+ "de": "202610",
+ "para": "202611",
+ "resumo": {
+  "incluidos": 31,
+  "excluidos": 2,
+  "reajustados": 24,
+  "alterados": 179
+ },
+ "incluidos": [
+  {
+   "codigo": "0213010844",
+   "nome": "DETECÇÃO DO RNA DOS VÍRUS DA DENGUE, ZIKA E CHIKUNGUNYA POR RT-PCR"
+  },
+  {
+   "codigo": "0214010325",
+   "nome": "PESQUISA DE SANGUE OCULTO NAS FEZES POR TESTE IMUNOQUÍMICO FECAL (FIT) PARA RASTREAMENTO DO CÂNCER COLORRETAL"
+  },
+  {
+   "codigo": "0303080124",
+   "nome": "TERAPIA FOTODINÂMICA"
+  },
+  {
+   "codigo": "0304020508",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE ESTÔMAGO E JUNÇÃO ESOFAGOGÁSTRICA AVANÇADO/METASTÁTICO HER2POSITIVO (PRIMEIRA LINHA)"
+  },
+  {
+   "codigo": "0304020516",
+   "nome": "QUIMIOTERAPIA DO MELANOMA MALIGNO AVANÇADO - 2ª LINHA"
+  },
+  {
+   "codigo": "0304020524",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS AVANÇADO - 2ª LINHA"
+  },
+  {
+   "codigo": "0304020532",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS AVANÇADO - 3ª LINHA"
+  },
+  {
+   "codigo": "0304020540",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR INDIFERENCIADO DE CÉLULAS PEQUENAS AVANÇADO - 2ª LINHA"
+  },
+  {
+   "codigo": "0304020559",
+   "nome": "TRATAMENTO DOS SINTOMAS DO TUMOR NEUROENDÓCRINO GASTROENTEROPANCREÁTICO FUNCIONAL COM ANÁLOGO DA SOMATOSTATINA"
+  },
+  {
+   "codigo": "0304020567",
+   "nome": "HORMONIOTERAPIA DO CÂNCER DE PRÓSTATA METASTÁTICO HORMÔNIO SENSÍVEL COM ABIRATERONA"
+  },
+  {
+   "codigo": "0304020575",
+   "nome": "HORMONIOTERAPIA DO CÂNCER DE PRÓSTATA METASTÁTICO HORMÔNIO RESISTENTE COM ABIRATERONA"
+  },
+  {
+   "codigo": "0304020583",
+   "nome": "QUIMIOTERAPIA DO TUMOR DO ESTROMA GASTROINTESTINAL AVANÇADO OU METASTÁTICO  SEGUNDA LINHA"
+  },
+  {
+   "codigo": "0304020591",
+   "nome": "TERAPIA ANTINEOPLÁSICA SISTÊMICA DO CARCINOMA RENAL DE CÉLULAS CLARAS METASTÁTICO COM PAZOPANIBE - PRIMEIRA LINHA"
+  },
+  {
+   "codigo": "0304080098",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA COM ANÁLOGO SINTÉTICO DO LHRH / GNRH"
+  },
+  {
+   "codigo": "0304090077",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREOIDE COM TSH RECOMBINANTE (ALFATIROTROPINA) (30 MCI)"
+  },
+  {
+   "codigo": "0304090085",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREOIDE COM TSH RECOMBINANTE (ALFATIROTROPINA) (50 MCI)"
+  },
+  {
+   "codigo": "0304090093",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREOIDE COM TSH RECOMBINANTE (ALFATIROTROPINA) (100 MCI)"
+  },
+  {
+   "codigo": "0304090107",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREOIDE COM TSH RECOMBINANTE (ALFATIROTROPINA) (150 MCI)"
+  },
+  {
+   "codigo": "0304090115",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREOIDE COM TSH RECOMBINANTE (ALFATIROTROPINA) (200 MCI)"
+  },
+  {
+   "codigo": "0304090123",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREOIDE COM TSH RECOMBINANTE (ALFATIROTROPINA) (250 MCI)"
+  },
+  {
+   "codigo": "0605010030",
+   "nome": "MESILATO DE IMATINIBE 100 MG (POR COMPRIMIDO)"
+  },
+  {
+   "codigo": "0605010048",
+   "nome": "TRASTUZUMABE (POR MG)"
+  },
+  {
+   "codigo": "0605010056",
+   "nome": "DASATINIBE 20 MG (POR COMPRIMIDO)"
+  },
+  {
+   "codigo": "0605010064",
+   "nome": "DASATINIBE 100 MG (POR COMPRIMIDO)"
+  },
+  {
+   "codigo": "0605010072",
+   "nome": "NILOTINIBE 200 MG (POR CÁPSULA)"
+  },
+  {
+   "codigo": "0605010080",
+   "nome": "MESILATO DE IMATINIBE 400 MG (POR COMPRIMIDO)"
+  },
+  {
+   "codigo": "0605010099",
+   "nome": "PERTUZUMABE (POR MG)"
+  },
+  {
+   "codigo": "0605010137",
+   "nome": "RITUXIMABE (POR MG)"
+  },
+  {
+   "codigo": "0605010145",
+   "nome": "ACETATO DE LANREOTIDA 120 MG (SERINGA PREENCHIDA)"
+  },
+  {
+   "codigo": "0605010153",
+   "nome": "CLORIDRATO DE PAZOPANIBE 200 MG (POR COMPRIMIDO"
+  },
+  {
+   "codigo": "0605010161",
+   "nome": "CLORIDRATO DE PAZOPANIBE 400 MG (POR COMPRIMIDO)"
+  }
+ ],
+ "excluidos": [
+  {
+   "codigo": "0304020494",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO COM ANÁLOGO SINTÉTICO DO LHRH / GNRH"
+  },
+  {
+   "codigo": "0304050326",
+   "nome": "QUIMIOTERAPIA DE MELANOMA MALÍGNO"
+  }
+ ],
+ "reajustados": [
+  {
+   "codigo": "0304030082",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLÁSTICA - MARCADOR POSITIVO - 2ª LINHA.",
+   "antes": 85.0,
+   "agora": 1990.12,
+   "variacao": 22.4132
+  },
+  {
+   "codigo": "0304090050",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 30MCI)",
+   "antes": 443.7,
+   "agora": 2175.0,
+   "variacao": 3.902
+  },
+  {
+   "codigo": "0304020427",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO  1ª LINHA",
+   "antes": 34.0,
+   "agora": 140.77,
+   "variacao": 3.1403
+  },
+  {
+   "codigo": "0304020443",
+   "nome": "BLOQUEIO COM DUPLO ANTI-HER-2 DOCARCINOMA DE MAMA HER-2 POSITIVOAVANÇADO/METASTÁTICO - 1ª LINHA",
+   "antes": 34.1,
+   "agora": 140.77,
+   "variacao": 3.1282
+  },
+  {
+   "codigo": "0304050296",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO I (ADJUVANTE)",
+   "antes": 34.1,
+   "agora": 140.77,
+   "variacao": 3.1282
+  },
+  {
+   "codigo": "0304050300",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO II (ADJUVANTE)",
+   "antes": 34.1,
+   "agora": 140.77,
+   "variacao": 3.1282
+  },
+  {
+   "codigo": "0304050318",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO III (ADJUVANTE)",
+   "antes": 34.1,
+   "agora": 140.77,
+   "variacao": 3.1282
+  },
+  {
+   "codigo": "0304090069",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 50MCI)",
+   "antes": 614.7,
+   "agora": 2399.0,
+   "variacao": 2.9027
+  },
+  {
+   "codigo": "0304090026",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (100 MCI)",
+   "antes": 1071.9,
+   "agora": 3259.0,
+   "variacao": 2.0404
+  },
+  {
+   "codigo": "0304090034",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (200 MCI)",
+   "antes": 1471.32,
+   "agora": 4379.0,
+   "variacao": 1.9762
+  },
+  {
+   "codigo": "0304090018",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (150 MCI)",
+   "antes": 1289.9,
+   "agora": 3819.0,
+   "variacao": 1.9607
+  },
+  {
+   "codigo": "0304090042",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (250 MCI)",
+   "antes": 1810.32,
+   "agora": 5278.0,
+   "variacao": 1.9155
+  },
+  {
+   "codigo": "0304020311",
+   "nome": "QUIMIOTERAPIA DO TUMOR DO ESTROMA GASTROINTESTINAL AVANÇADO",
+   "antes": 17.0,
+   "agora": 34.0,
+   "variacao": 1.0
+  },
+  {
+   "codigo": "0304030090",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLASTICA - MARCADOR POSITIVO - SEM FASE CRÔNICA OU DE TRANSFORMAÇÃO ANTERIOR (PRIMEIRA LINHA).",
+   "antes": 17.0,
+   "agora": 34.0,
+   "variacao": 1.0
+  },
+  {
+   "codigo": "0304030112",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - PRIMEIRA LINHA.",
+   "antes": 17.0,
+   "agora": 34.0,
+   "variacao": 1.0
+  },
+  {
+   "codigo": "0304030147",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - MARCADOR POSITIVO - 2ªLINHA",
+   "antes": 17.0,
+   "agora": 34.0,
+   "variacao": 1.0
+  },
+  {
+   "codigo": "0304030228",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - 2ª LINHA",
+   "antes": 17.0,
+   "agora": 34.0,
+   "variacao": 1.0
+  },
+  {
+   "codigo": "0304050334",
+   "nome": "QUIMIOTERAPIA DE TUMOR DO ESTROMA GASTRO INTESTINAL",
+   "antes": 17.0,
+   "agora": 34.0,
+   "variacao": 1.0
+  },
+  {
+   "codigo": "0304020230",
+   "nome": "QUIMIOTERAPIA DO MELANOMA MALIGNO AVANÇADO - 1ª LINHA",
+   "antes": 7500.0,
+   "agora": 1251.64,
+   "variacao": -0.8331
+  },
+  {
+   "codigo": "0304060046",
+   "nome": "QUIMIOTERAPIA DA DOENÇA DE HODGKIN - TERCEIRA LINHA",
+   "antes": 5767.33,
+   "agora": 1258.64,
+   "variacao": -0.7818
+  },
+  {
+   "codigo": "0304030058",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA LINFOCITICA CRONICA - 1ª LINHA.",
+   "antes": 407.5,
+   "agora": 514.17,
+   "variacao": 0.2618
+  },
+  {
+   "codigo": "0304030236",
+   "nome": "QUIMIOTERAPIA DE LINFOMA FOLICULAR- 1ª LINHA",
+   "antes": 640.0,
+   "agora": 746.67,
+   "variacao": 0.1667
+  },
+  {
+   "codigo": "0304060224",
+   "nome": "QUIMIOTERAPIA DE LINFOMA DIFUSO DE GRANDES CÉLULAS B  1ª LINHA",
+   "antes": 800.0,
+   "agora": 906.67,
+   "variacao": 0.1333
+  },
+  {
+   "codigo": "0304030244",
+   "nome": "QUIMIOTERAPIA DE LINFOMA FOLICULAR - 2ª LINHA",
+   "antes": 1080.0,
+   "agora": 1186.67,
+   "variacao": 0.0988
+  }
+ ],
+ "alterados": [
+  {
+   "codigo": "0304030090",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLASTICA - MARCADOR POSITIVO - SEM FASE CRÔNICA OU DE TRANSFORMAÇÃO ANTERIOR (PRIMEIRA LINHA).",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010030 - MESILATO DE IMATINIBE 100 …, 0605010080 - MESILATO DE IMATINIBE 400 …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA DE 1ª LINHA PARA CONTROLE TEMPORÁRIO DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE  BLASTICA - CROMOSSOMA PHILADELFIA OU BCR-ABL POSITIVO - SEM TRATAMENTO ANTERIOR EM  FASE CRÔNICA OU DE TRANSFORMAÇÃO - PARA CONTROLE SANGÜINEO E CITOG…",
+     "agora": "QUIMIOTERAPIA DE PRIMEIRA LINHA PARA CONTROLE TEMPORÁRIO DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLASTICA - CROMOSSOMA PHILADELFIA OU BCR-ABL POSITIVO - SEM TRATAMENTO ANTERIOR EM FASE CRÔNICA OU DE TRANSFORMAÇÃO."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLASTICA - MARCADOR POSITIVO - SEM FASE CRÔNICA OU DE TRANSFORMAÇÃO ANTERIOR (1ª LINHA).",
+     "agora": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLASTICA - MARCADOR POSITIVO - SEM FASE CRÔNICA OU DE TRANSFORMAÇÃO ANTERIOR (PRIMEIRA LINHA)."
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030112",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - PRIMEIRA LINHA.",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "102 itens",
+     "agora": "105 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA DE1ª LINHA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA  CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO -PARA CONTROLE SANGÜINEO E CITOGENETICO OU MOLECULAR. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO INI…",
+     "agora": "QUIMIOTERAPIA DE PRIMEIRA LINHA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO - PARA CONTROLE SANGUINEO E CITOGENÉTICO OU MOLECULAR. ESTE PROCEDIMENTO SE APLICA A AUTORIZA…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - 1ª LINHA.",
+     "agora": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - PRIMEIRA LINHA."
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030155",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - MARCADOR POSITIVO - SEM FASE CRONICA ANTERIOR (PRIMEIRA LINHA)",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA DE 1ª LINHA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO CROMOSSOMA PHILADELPHIA BCR-ABL POSITIVO - SEM TRATAMENTO ANTERIOR EM  FASE CRÔNICA  - PARA CONTROLE SANGÜINEO E CITOGENÉTICO OU MOLEC…",
+     "agora": "QUIMIOTERAPIA DE PRIMEIRA LINHA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO CROMOSSOMA PHILADELPHIA BCR-ABL POSITIVO - SEM TRATAMENTO ANTERIOR EM FASE CRÔNICA."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - MARCADOR POSITIVO - SEM FASE CRONICA ANTERIOR (1ª LINHA)",
+     "agora": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - MARCADOR POSITIVO - SEM FASE CRONICA ANTERIOR (PRIMEIRA LINHA)"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020230",
+   "nome": "QUIMIOTERAPIA DO MELANOMA MALIGNO AVANÇADO - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cid",
+     "rotulo": "CID",
+     "antes": "10 CID",
+     "agora": "21 CID",
+     "detalhe": "+D03, D030, D031, D032, D033…"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PALIATIVA DO MELANOMA MALIGNO (DOENÇA METASTÁTICA, RECIDIVADA OU LOCO-REGIONAL AVANÇADA).",
+     "agora": "QUIMIOTERAPIA PALIATIVA DE 1ª LINHA DO MELANOMA MALIGNO (DOENÇA METASTÁTICA, RECIDIVADA OU LOCO-REGIONAL AVANÇADA)."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0304020516 - QUIMIOTERAPIA DO MELANOMA …"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DO MELANOMA MALIGNO AVANÇADO",
+     "agora": "QUIMIOTERAPIA DO MELANOMA MALIGNO AVANÇADO - 1ª LINHA"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030082",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLÁSTICA - MARCADOR POSITIVO - 2ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010056 - DASATINIBE 20 MG (POR COMP…, 0605010064 - DASATINIBE 100 MG (POR COM…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE  BLÁSTICA - CROMOSSOMA PHILADELFIA OU BCR-ABL POSITIVO - COM  OU SEM FASE CRÔNICA OU DE TRANSFORMAÇÃO ANTERIOR. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO PARA ENTR…",
+     "agora": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM||FASE BLÁSTICA - CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO - COM OU SEM FASE CRÔNICA OU DE TRANSFORMAÇÃO ANTERIOR."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030104",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLÁSTICA - MARCADOR POSITIVO-3ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA  PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE BLÁSTICA - CROMOSSOMA PHILADELFIA OU BCR-ABL POSITIVO. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO PARA ENTRADA NO SISTEMA  DE PLANEJAMENTO TERAPÊUTICO INICIAL; PAR…",
+     "agora": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM||FASE BLÁSTICA - CROMOSSOMA PHILADELFIA OU BCR-ABL POSITIVO."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030120",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - 3ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "103 itens",
+     "agora": "103 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA  PARA CONTROLE TEMPORÁRIO DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA. CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO  PARA ENTRADA NO SISTEMA DE PLANEJAMENTO TERAPÊUTICO INICIAL;  PAR…",
+     "agora": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DE LEUCEMIA MIELÓIDE CRÔNICA EM||FASE CRÔNICA. CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO PARA ENTRADA NO SISTEMA DE||PLANEJAMENTO TERAPÊUTICO INICIAL; CASO…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030139",
+   "nome": "QUMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - MARCADOR POSITIVO - 3ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUMIOTERAPIA PARA CONTROLE TEMPORÁRIO DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO  CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO PARA ENTRADA NO SISTEMA  DE PLANEJAMENTO TERAPÊUTICO INICIA…",
+     "agora": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DE LEUCEMIA MIELÓIDE CRÔNICA EM||FASE DE TRANSFORMAÇÃO CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030147",
+   "nome": "QUIMIOTERAPIA DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - MARCADOR POSITIVO - 2ªLINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010056 - DASATINIBE 20 MG (POR COMP…, 0605010064 - DASATINIBE 100 MG (POR COM…, 0605010072 - NILOTINIBE 200 MG (POR CÁP…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA  PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE DE TRANSFORMAÇÃO - CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO, COM  OU SEM FASE  CRÔNICA ANTERIOR. ESTE PROCEDIMENTO SE APLICA A AUTORIZAÇÃO PARA A ENTRADA NO SI…",
+     "agora": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM||FASE DE TRANSFORMAÇÃO - CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO, COM OU SEM FASE CRÔNICA ANTERIOR. CASO O PACIENTE APRESENTE TOXICIDADE A UM DOS MEDICAMENTOS DA SE…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030228",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA - MARCADOR POSITIVO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "102 itens",
+     "agora": "106 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM FASE CRÔNICA CROMOSSOMA  PHILADELPHIA OU BCR-ABL POSITIVO. ESTE PROCEDIMENTOSE APLICA A AUTORIZAÇÃO INICIAL PARA ENTRADA NO SISTEMA DE NOVO PLANEJAMENTO TERAPÊUTICO.",
+     "agora": "QUIMIOTERAPIA PARA CONTROLE TEMPORÁRIO DA LEUCEMIA MIELÓIDE CRÔNICA EM||FASE CRÔNICA CROMOSSOMA PHILADELPHIA OU BCR-ABL POSITIVO. CASO O PACIENTE APRESENTE TOXICIDADE A UM DOS MEDICAMENTOS DA SEGUNDA LINHA, É POSSÍVEL REALIZAR A TROCA PARA…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020168",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE RIM AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "225121-Médico oncologista clínico",
+     "agora": "2 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PALIATIVA DO CARCINOMA DE CÉLULAS RENAIS - DOENÇA METASTÁTICA, RECIDIVADA OU LOCO-REGIONALMENTE AVANÇADA. ||",
+     "agora": "TERAPIA ANTINEOPLÁSICA SISTÊMICA PALIATIVA DO CARCINOMA DE CÉLULAS RENAIS EM DOENÇA METASTÁTICA, RECIDIVADA OU LOCORREGIONALMENTE AVANÇADA,INDEPENDENTEMENTE DO SUBTIPO HISTOLÓGICO,COMPREENDENDO OS ESQUEMAS TERAPÊUTICOS CUJOS MEDICAMENTOS S…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 5
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0304020591 - TERAPIA ANTINEOPLÁSICA SIS…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020451",
+   "nome": "TERAPIA ANTINEOPLÁSICA SISTÊMICA DO CÂNCER DE MAMA AVANÇADO COM INIBIDOR CDK 4/6  1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020478 - HORMONIOTERAPIA DO CARCINO…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020338 - HORMONIOTERAPIA DO CARCINO…, 030…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "TRATAMENTO COM FINALIDADE PALIATIVA DO CÂNCER DE MAMA AVANÇADO OU METASTÁTICO HR POSITIVO E HER-2 NEGATIVO COM O USO DE INIBIDORES DE CDK 4/6. PROCEDIMENTO USADO APENAS QUANDO A CLASSE DE INIBIDORES DE CDK 4/6 É UTILIZADA COMO 1ª LINHA DE …",
+     "agora": "TRATAMENTO COM FINALIDADE PALIATIVA DO CÂNCER DE MAMA AVANÇADO OU METASTÁTICO RH POSITIVO E HER2 NEGATIVO. PROCEDIMENTO USADO APENAS QUANDO A CLASSE DE INIBIDORES DE CDK 4/6 É UTILIZADA COMO PRIMEIRA LINHA DE TRATAMENTO, CONFORME PROTOCOLO…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 16,
+     "agora": 0
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "7 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020460",
+   "nome": "TERAPIA ANTINEOPLÁSICA SISTÊMICA DO CÂNCER DE MAMA AVANÇADO COM INIBIDOR CDK 4/6  2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020486 - HORMONIOTERAPIA DO CARCINO…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020346 - HORMONIOTERAPIA DO CARCINO…, 030…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "TRATAMENTO COM FINALIDADE PALIATIVA DO CÂNCER DE MAMA AVANÇADO OU METASTÁTICO HR POSITIVO E HER-2 NEGATIVO COM O USO DE INIBIDORES DE CDK4/6. PROCEDIMENTO USADO APENAS QUANDO A CLASSE DE INIBIDORES DE CDK4/6 NÃO TIVER SIDO UTILIZADA COMO 1…",
+     "agora": "TRATAMENTO COM FINALIDADE PALIATIVA DO CÂNCER DE MAMA AVANÇADO OU METASTÁTICO, RH POSITIVO E HER-2 NEGATIVO COM O USO DE INIBIDORES DE CDK4/6. PROCEDIMENTO USADO APENAS QUANDO A CLASSE DE INIBIDORES DE CDK4/6 NÃO TIVER SIDO UTILIZADA COMO …"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 16,
+     "agora": 0
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "7 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020478",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO COM ANTIESTROGÊNICO SUPRESSOR DOS RECEPTORES DE ESTROGÊNIO - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "16 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020451 - TERAPIA ANTINEOPLÁSICA SIS…, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "HORMONIOTERAPIA PALIATIVA DE 1ª LINHA DO CÂNCER DE MAMA RECEPTOR HORMONAL POSITIVO PARA ESTROGÊNIOS (DOENÇA METASTÁTICA OU RECIDIVADA NA MULHER EM PÓS MENOPAUSA) MEDIANTE USO DE MEDICAMENTO ANTIESTROGÊNICO SUPRESSOR DOS RECEPTORES DE ESTRO…",
+     "agora": "HORMONIOTERAPIA PALIATIVA DE PRIMEIRA LINHA DO CÂNCER DE MAMA RECEPTOR HORMONAL POSITIVO PARA ESTROGÊNIOS (DOENÇA METASTÁTICA OU RECIDIVADA NA MULHER EM PRÉ- E PÓS-MENOPAUSA) MEDIANTE O USO DE MEDICAMENTO ANTIESTROGÊNICO SUPRESSOR DOS RECE…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 16,
+     "agora": 0
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "2 itens",
+     "agora": "6 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020486",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO COM ANTIESTROGÊNICO SUPRESSOR DOS RECEPTORES DE ESTROGÊNIO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "16 itens",
+     "agora": "21 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020460 - TERAPIA ANTINEOPLÁSICA SIS…, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "HORMONIOTERAPIA PALIATIVA DE 2ª LINHA DO CÂNCER DE MAMA RECEPTOR HORMONAL POSITIVO PARA ESTROGÊNIOS (DOENÇA METASTÁTICA OU RECIDIVADA NA MULHER EM PÓS MENOPAUSA) MEDIANTE USO DE MEDICAMENTO ANTIESTROGÊNICO SUPRESSOR DOS RECEPTORES DE ESTRO…",
+     "agora": "HORMONIOTERAPIA PALIATIVA DE SEGUNDA LINHA DO CÂNCER DE MAMA RECEPTOR HORMONAL POSITIVO PARA ESTROGÊNIOS (DOENÇA METASTÁTICA OU RECIDIVADA NA MULHER EM PRÉ- E PÓS-MENOPAUSA) MEDIANTE O USO DE MEDICAMENTO ANTIESTROGÊNICO SUPRESSOR DOS RECEP…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 16,
+     "agora": 0
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "2 itens",
+     "agora": "6 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030074",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA MIELOIDE CRONICA QUALQUER FASE - CONTROLE SANGÜINEO",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "103 itens",
+     "agora": "104 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 002 / 132 - 003",
+     "agora": "132 - 001 / 132 - 002 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060046",
+   "nome": "QUIMIOTERAPIA DA DOENÇA DE HODGKIN - TERCEIRA LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA CURATIVA DA DOENÇA DE HODGKIN EM ESTÁDIO DE I A IV. TRATA-SE DO TRATAMENTO INDICADO EM CASO DE DOENÇA REFRATÁRIA OU RECIDIVADA APÓS TRANSPLANTE DE CÉLULAS-TRONCOHEMATOPOÉTICAS. EM CASO DE REFRATARIEDADE À 1ª LINHA E INEXIGIBI…",
+     "agora": "QUIMIOTERAPIA CURATIVA DE TERCEIRA LINHA DA DOENÇA DE||HODGKIN EM ESTÁDIO DE I A IV."
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DA DOENÇA DE HODGKIN - 3ª LINHA",
+     "agora": "QUIMIOTERAPIA DA DOENÇA DE HODGKIN - TERCEIRA LINHA"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020060",
+   "nome": "HORMONIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA AVANÇADO COM ANTIANDROGÊNICO PERIFÉRICO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "120 itens",
+     "agora": "121 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA…, 0304020532 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NA HORMONIOTERAPIA  PALIATIVA DE 2ª  LINHA DO ADENOCARCINOMA DE PRÓSTATA LOCO-REGIONALMENTE AVANÇADO, METASTÁSTICO OU RECIDIVADO. COM SUPRESSÃO ANDROGÊNICA PRÉVIA.",
+     "agora": "CONSISTE NA HORMONIOTERAPIA COM USO DE ANTIANDROGÊNIO DE AÇÃO PERIFÉRICA DE PRIMEIRA GERAÇÃO. SEU USO PODE SER ISOLADO EM PACIENTES COM SUPRESSÃO ANDROGÊNICA CIRÚRGICA PRÉVIA OU ASSOCIADO AO ANÁLOGO||DE LHRH, PARA TRATAMENTO DO ADENOCARCIN…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "2 itens",
+     "detalhe": "+0304020567 - HORMONIOTERAPIA DO CÂNCER …, 0304020575 - HORMONIOTERAPIA DO CÂNCER …"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "HORMONIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA AVANÇADO - 2ª LINHA",
+     "agora": "HORMONIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA AVANÇADO COM ANTIANDROGÊNICO PERIFÉRICO"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020087",
+   "nome": "QUIMIOTERAPIA DO CÂNCER DE PRÓSTATA HORMÔNIO RESISTENTE OU METASTÁTICO HORMÔNIO SENSÍVEL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020567 - HORMONIOTERAPIA DO CÂNCER …, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PALIATIVA DO ADENOCARCINOMA DE PRÓSTATA LOCO-REGIONALMENTE AVANÇADO, METASTTICO OU RECIDIVADO, RESISTENTE A HORMONIOTERAPIA.",
+     "agora": "CONSISTE NA QUIMIOTERAPIA PARA TRATAMENTO DE: (1) CÂNCER DE PRÓSTATA HORMÔNIO RESISTENTE, LOCO-REGIONALMENTE AVANÇADO, METASTÁTICO OU RECIDIVADO; OU (2) CÂNCER DE PRÓSTATA METASTÁTICO HORMÔNIO SENSÍVEL DE ALTO VOLUME (METÁSTASE VISCERAL OU…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0304020575 - HORMONIOTERAPIA DO CÂNCER …"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA RESISTENTE A HORMONIOTERAPIA",
+     "agora": "QUIMIOTERAPIA DO CÂNCER DE PRÓSTATA HORMÔNIO RESISTENTE OU METASTÁTICO HORMÔNIO SENSÍVEL"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020214",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS AVANÇADO - 1ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PALIATIVA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS EM ESTÁDIO III COM DERRAME PLEURAL MALIGNO OU ESTÁDIO IV OU DOENÇA RECIDIVADA - PERFORMANCE STATUS DE 0 ATÉ 2, EM CASO DE QUIMIOTERAPIA DE 1ª LINHA, E DE 0 A 1, EM CASO …",
+     "agora": "QUIMIOTERAPIA PALIATIVA DE 1ª LINHA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS - PERFORMANCE STATUS DE 0 ATÉ 2.||"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS AVANÇADO",
+     "agora": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS AVANÇADO - 1ª LINHA."
+    }
+   ]
+  },
+  {
+   "codigo": "0304050296",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO I (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "19 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0605010048 - TRASTUZUMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "MONOQUIMIOTERAPIA PÓS-CIRURGIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO I CLÍNICO OU PATOLÓGICO COM EXAME IMUNO-HISTOQUÍMICO DE 2 CRUZES CONFIRMADO POR EXAME MOLECULAR OU DE 3 CRUZES.MÁXIMO DE 09||MESES OU 12 MESES, SE, RESPECTIVAMEN…",
+     "agora": "MONOQUIMIOTERAPIA COM ANTI-HER2, SUBSEQUENTE OU NÃO À POLIQUIMIOTERAPIA NEOADJUVANTE OU ADJUVANTE DO CARCINOMA DE MAMA HER-2POSITIVO EM ESTÁDIO I CLÍNICO OU PATOLÓGICO, COM EXAME IMUNO-HISTOQUÍMICO DE 2 CRUZES CONFIRMADO POREXAME MOLECULAR…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050300",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO II (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "19 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0605010048 - TRASTUZUMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "MONOQUIMIOTERAPIA SUBSEQUENTEOU NÃO A POLIQUIMIOTERAPIA ADJUVANTE PÓS-CIRURGIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO II CLÍNICO OU PATOLÓGICO COM EXAME IMUNO-HISTOQUÍMICO DE 2 CRUZES CONFIRMADO POR EXAMEMOLECULAR OU DE 3 CRUZES. M…",
+     "agora": "MONOQUIMIOTERAPIA COM ANTI-HER2, SUBSEQUENTE OU NÃO À||POLIQUIMIOTERAPIA NEOADJUVANTE OU ADJUVANTE DO CARCINOMA DE MAMA HER-2||POSITIVO EM ESTÁDIO II CLÍNICO OU PATOLÓGICO, COM EXAME IMUNO-HISTOQUÍMICO DE 2 CRUZES CONFIRMADO POR EXAME MOLE…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050318",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO III (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "19 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0605010048 - TRASTUZUMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "MONOQUIMIOTERAPIA SUBSEQUENTEOU NÃO A POLIQUIMIOTERAPIA PRÉVIA (PRÉ-CIRURGIA)OU ADJUVANTE (PÓS-CIRURGIA) DO CARCINOMA DEMAMA HER-2 POSITIVO EM ESTÁDIO III CLÍNICO OUPATOLÓGICO COM EXAME IMUNO-HISTOQUÍMICO DE 2CRUZES CONFIRMADO POR EXAME MO…",
+     "agora": "MONOQUIMIOTERAPIA COM ANTI-HER2, SUBSEQUENTE OU NÃO À POLIQUIMIOTERAPIA NEOADJUVANTE OU ADJUVANTE DO CARCINOMA DE MAMA HER-2||POSITIVO EM ESTÁDIO III CLÍNICO OU PATOLÓGICO, COM EXAME IMUNO-HISTOQUÍMICO DE 2 CRUZES CONFIRMADO POR EXAME MOLE…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "5 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020079",
+   "nome": "HORMONIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA AVANÇADO COM ANÁLOGOS DE LHRH",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "120 itens",
+     "agora": "124 itens",
+     "detalhe": "+0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NA HORMONIOTERAPIA  PALIATIVA DE  1ª  LINHA DO ADENOCARCINOMA DE PRÓSTATA LOCO-REGIONALMENTE AVANÇADO, METASTÁTICO OU RECIDIVADO. SEM SUPRESSÃO ANDROGÊNICA PRÉVIA.",
+     "agora": "CONSISTE NA TERAPIA DE PRIVAÇÃO ANDROGÊNICA (TPA) COM USO DE ANÁLOGOS DE LHRH, CONCOMITANTE OU NÃO À QUIMIOTERAPIA OU À HORMONIOTERAPIA COM ABIRATERONA, PARA TRATAMENTO DO ADENOCARCINOMA DE PRÓSTATA LOCO-REGIONALMENTE AVANÇADO, METASTÁTICO…"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "HORMONIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA AVANÇADO - 1ª LINHA",
+     "agora": "HORMONIOTERAPIA DO ADENOCARCINOMA DE PRÓSTATA AVANÇADO COM ANÁLOGOS DE LHRH"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020133",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO -1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "6 itens",
+     "agora": "10 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020141",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "3 itens",
+     "agora": "7 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020222",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR INDIFERENCIADO DE CÉLULAS PEQUENAS AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PALIATIVA DO CARCINOMA PULMONAR INDIFERENCIADO DE CÉLULAS PEQUENAS - DOENÇA EXTENSA OU METASTÁTICA OU RECIDIVADA",
+     "agora": "QUIMIOTERAPIA PRÉVIA À CIRURGIA OU CONCOMITANTE À RADIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS EM ESTÁDIO II OU III.||"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304020338",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "113 itens",
+     "agora": "118 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "4 itens",
+     "agora": "6 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…; −0304020494 - HORMONIOTERAPIA DO CARCINO…, GNRH"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020346",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA AVANÇADO- 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "114 itens",
+     "agora": "120 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020427 - MONOQUIMIOTERAPIA DO CARCI…, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304020516 - QUIMIOTERAPIA DO MELANOMA ……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "7 itens",
+     "agora": "9 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…; −0304020494 - HORMONIOTERAPIA DO CARCINO…, GNRH"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020419",
+   "nome": "POLIQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO  1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "7 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020427",
+   "nome": "MONOQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO  1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "19 itens",
+     "agora": "21 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020346 - HORMONIOTERAPIA DO CARCINO…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0605010048 - TRASTUZUMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 030403011…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "6 itens",
+     "agora": "10 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020435",
+   "nome": "POLIQUIMIOTERAPIA COM DUPLO ANTI HER-2 DO CARCINOMA DE MAMA HER-2 POSITIVO 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "7 itens",
+     "agora": "11 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020443",
+   "nome": "BLOQUEIO COM DUPLO ANTI-HER-2 DOCARCINOMA DE MAMA HER-2 POSITIVOAVANÇADO/METASTÁTICO - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0605010048 - TRASTUZUMABE (POR MG), 0605010099 - PERTUZUMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUI…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "6 itens",
+     "agora": "10 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030058",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA LINFOCITICA CRONICA - 1ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "106 itens",
+     "agora": "108 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304040029",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE MAMA (PRÉVIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "2 itens",
+     "agora": "6 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040061",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMÓIDE DE SEIO PARA-NASAL/ LARINGE / HIPOFARINGE/ OROFARINGE /CAVIDADE ORAL",
+   "mudancas": [
+    {
+     "campo": "cid",
+     "rotulo": "CID",
+     "antes": "57 CID",
+     "agora": "58 CID",
+     "detalhe": "+C760"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0304080012 - FATOR ESTIMULANTE DO CRESC…, MACRÓFAGOS; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEU…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304040185",
+   "nome": "POLIQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO (PRÉVIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "17 itens",
+     "agora": "17 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "2 itens",
+     "agora": "6 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040193",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA (PRÉVIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "107 itens",
+     "agora": "113 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050040",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO I",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "111 itens",
+     "agora": "117 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050067",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO III",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "5 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050075",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO II",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "5 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050113",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO III",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "112 itens",
+     "agora": "118 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050121",
+   "nome": "HORMONIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO II",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "111 itens",
+     "agora": "117 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "4 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050130",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO I",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "5 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050261",
+   "nome": "POLIQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO I (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "17 itens",
+     "agora": "17 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "0304050130 - QUIMIOTERAPIA DO CARCINOMA DE MAMA EM ESTÁDIO I",
+     "agora": "5 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050270",
+   "nome": "POLIQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO II (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "17 itens",
+     "agora": "17 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "5 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050288",
+   "nome": "POLIQUIMIOTERAPIA DO CARCINOMA DE MAMA HER-2 POSITIVO EM ESTÁDIO III (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "17 itens",
+     "agora": "17 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "3 itens",
+     "agora": "7 itens",
+     "detalhe": "+0304070017 - QUIMIOTERAPIA DE CANCER NA…, 0304070025 - QUIMIOTERAPIA DE CANCER NA…, 0304070033 - QUIMIOTERAPIA DE CÂNCER NA…, 0304070041 - QUIMIOTERAPIA DE CÂNCER NA…"
+    },
+    {
+     "campo": "serClass",
+     "rotulo": "Serviço/classificação",
+     "antes": "132 - 003",
+     "agora": "132 - 001 / 132 - 003",
+     "detalhe": "+132 - 001"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060011",
+   "nome": "QUIMIOTERAPIA DA DOENÇA DE HODGKIN - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304060038",
+   "nome": "QUIMIOTERAPIA DA DOENÇA DE HODGKIN - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304060224",
+   "nome": "QUIMIOTERAPIA DE LINFOMA DIFUSO DE GRANDES CÉLULAS B  1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "cbo",
+     "rotulo": "CBO",
+     "antes": "2 itens",
+     "agora": "3 itens",
+     "detalhe": "+225122-Médico cancerologista pediátrico"
+    },
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010137 - RITUXIMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304090050",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 30MCI)",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 30mCi)",
+     "agora": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 30MCI)"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0304090069",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 50MCI)",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 50mCi)",
+     "agora": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DE TIREOIDE( 50MCI)"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0206010095",
+   "nome": "TOMOGRAFIA POR EMISSÃO DE PÓSITRONS (PET-CT)",
+   "mudancas": [
+    {
+     "campo": "cid",
+     "rotulo": "CID",
+     "antes": "45 CID",
+     "agora": "55 CID",
+     "detalhe": "+C150, C151, C152, C153, C154…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "TÉCNICA DE DIAGNÓSTICO POR IMAGENS QUE USA MARCADORES RADIOATIVOS PARA DETECTAR PROCESSOS BIOQUÍMICOS TISSULARES, EM COMBINAÇÃO COM A TOMOGRAFIA COMPUTADORIZADA, E QUE REGISTRA SIMULTANEAMENTE AS IMAGENS ANATÔMICAS E DE ATIVIDADE TISSULAR …",
+     "agora": "TÉCNICA DE DIAGNÓSTICO POR IMAGENS QUE USA MARCADORES RADIOATIVOS PARA DETECTAR PROCESSOS BIOQUÍMICOS TISSULARES, EM COMBINAÇÃO COM A||TOMOGRAFIA COMPUTADORIZADA, E QUE REGISTRA SIMULTANEAMENTE AS IMAGENS ANATÔMICAS E DE ATIVIDADE TISSULAR…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020150",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE NASOFARINGE AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "26 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0304080012 - FATOR ESTIMULANTE DO CRESC…, MACRÓFAGOS; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEU…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304020206",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMÓIDE DE CABEÇA E PESCOÇO AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "26 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0304080012 - FATOR ESTIMULANTE DO CRESC…, MACRÓFAGOS; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEU…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304020311",
+   "nome": "QUIMIOTERAPIA DO TUMOR DO ESTROMA GASTROINTESTINAL AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010030 - MESILATO DE IMATINIBE 100 …, 0605010080 - MESILATO DE IMATINIBE 400 …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "",
+     "agora": "1 itens",
+     "detalhe": "+0304020583 - QUIMIOTERAPIA DO TUMOR DO …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030236",
+   "nome": "QUIMIOTERAPIA DE LINFOMA FOLICULAR- 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "94 itens",
+     "agora": "96 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304030244",
+   "nome": "QUIMIOTERAPIA DE LINFOMA FOLICULAR - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "11 itens",
+     "agora": "12 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010137 - RITUXIMABE (POR MG); −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304040088",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE NASOFARINGE",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …, 0304080012 - FATOR ESTIMULANTE DO CRESC…, MACRÓFAGOS; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEU…"
+    },
+    {
+     "campo": "idadeMin",
+     "rotulo": "Idade mínima",
+     "antes": 19,
+     "agora": 18
+    }
+   ]
+  },
+  {
+   "codigo": "0304040096",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS (PRÉVIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "QUIMIOTERAPIA PRÉVIA A CIRURGIA OU CONCOMITANTE A RADIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS EM ESTÁDIO III",
+     "agora": "QUIMIOTERAPIA PRÉVIA À CIRURGIA OU CONCOMITANTE À RADIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS EM ESTÁDIO II OU III."
+    }
+   ]
+  },
+  {
+   "codigo": "0304080012",
+   "nome": "FATOR ESTIMULANTE DO CRESCIMENTO DE COLÕNIAS DE GRANULÓCITOS / MACRÓFAGOS",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "49 itens",
+     "agora": "54 itens",
+     "detalhe": "+0304020150 - QUIMIOTERAPIA DO CARCINOMA…, 0304020206 - QUIMIOTERAPIA DO CARCINOMA…, 0304040061 - QUIMIOTERAPIA DO CARCINOMA…, HIPOFARINGE/ OROFARINGE /CAVIDADE ORAL, 0304040088 - QUIMIOTERAPIA DO CARCINOMA……; −0304060046 - QUIMIOTERAPIA DA DOENÇA DE…"
+    },
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "PROCEDIMENTO EXCLUSIVAMENTE SECUNDÁRIO COMPATÍVEL COM OS PROCEDIMENTOS DA QUIMIOTERAPIA CURATIVA ADULTO E DE QUIMIOTERAPIA DE TUMORES NA INFÂNCIA E ADOLESCÊNCIA.",
+     "agora": "PROCEDIMENTO EXCLUSIVAMENTE SECUNDÁRIO COMPATÍVEL COM OS PROCEDIMENTOS DA QUIMIOTERAPIA CURATIVA DO ADULTO E DE QUIMIOTERAPIA DE TUMORES NA INFÂNCIA E ADOLESCÊNCIA. PARA AS FINALIDADES PRÉVIA, ADJUVANTE E PALIATIVA NO ADULTO, AUTORIZAR DE …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304090018",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (150 MCI)",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0304090026",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (100 MCI)",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0304090034",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (200 MCI)",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0304090042",
+   "nome": "IODOTERAPIA DE CARCINOMA DIFERENCIADO DA TIREÓIDE (250 MCI)",
+   "mudancas": [
+    {
+     "campo": "financiamento",
+     "rotulo": "Financiamento",
+     "antes": "MAC",
+     "agora": "FAEC"
+    },
+    {
+     "campo": "rubrica",
+     "rotulo": "Rubrica",
+     "antes": "",
+     "agora": "Diagnóstico/tratamento em oncologia"
+    }
+   ]
+  },
+  {
+   "codigo": "0908010010",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE SÍNDROMES RESPIRATÓRIAS",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "8 itens",
+     "agora": "9 itens",
+     "detalhe": "+0202080110 - CULTURA SÓLIDA PARA MICOBA…"
+    },
+    {
+     "campo": "obrigatoria",
+     "rotulo": "Obrigatórias",
+     "antes": "0206020031 - TOMOGRAFIA COMPUTADORIZADA DE TORAX",
+     "agora": "2 itens",
+     "detalhe": "+0204030153 - RADIOGRAFIA DE TORAX (PA E…"
+    }
+   ]
+  },
+  {
+   "codigo": "0201010232",
+   "nome": "BIÓPSIA DE GLÂNDULA SALIVAR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0201010348",
+   "nome": "BIÓPSIA DE OSSO DO CRÂNIO E DA FACE",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0201010526",
+   "nome": "BIÓPSIA DOS TECIDOS MOLES DA BOCA",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0202040143",
+   "nome": "PESQUISA DE SANGUE OCULTO NAS FEZES",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE EM UM TESTE POR VÁRIOS MÉTODOS E TÉCNICAS PARA DETECTAR A PRESENÇA DE HEMOGLOBINA NAS FEZES.||",
+     "agora": "CONSISTE NA PESQUISA DE SANGUE OCULTO NAS FEZES POR DIFERENTES MÉTODOS E TÉCNICAS, DESTINADA AO APOIO NA INVESTIGAÇÃO DIAGNÓSTICA DE PESSOAS COM SINAIS OU SINTOMAS SUGESTIVOS DE CÂNCER COLORRETAL, CONFORME AVALIAÇÃO CLÍNICA E PROTOCOLOS AS…"
+    }
+   ]
+  },
+  {
+   "codigo": "0202080110",
+   "nome": "CULTURA SÓLIDA PARA MICOBACTÉRIAS",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "4 itens",
+     "agora": "5 itens",
+     "detalhe": "+0908010010 - OCI AVALIAÇÃO DIAGNÓSTICA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0202080250",
+   "nome": "EXAME MICOLÓGICO DIRETO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "4 itens",
+     "agora": "5 itens",
+     "detalhe": "+0908010036 - OCI AVALIAÇÃO DIAGNÓSTICA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0204030080",
+   "nome": "RADIOGRAFIA DE ESOFAGO",
+   "mudancas": [
+    {
+     "campo": "descricao",
+     "rotulo": "Descrição",
+     "antes": "CONSISTE NA RADIOGRAFIA DO ESOFAGO COM A UTILIZACAO DE CONTRASTE",
+     "agora": "CONSISTE NA RADIOGRAFIA DO ESÔFAGO COM A UTILIZAÇÃO DE CONTRASTE, PODENDO INCLUIR ESTUDO DINÂMICO DA DEGLUTIÇÃO (VIDEODEGLUTOGRAMA)."
+    }
+   ]
+  },
+  {
+   "codigo": "0301010048",
+   "nome": "CONSULTA DE PROFISSIONAIS DE NIVEL SUPERIOR NA ATENÇÃO ESPECIALIZADA (EXCETO MÉDICO)",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0301010307",
+   "nome": "TELECONSULTA MÉDICA NA ATENÇÃO ESPECIALIZADA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "38 itens",
+     "agora": "39 itens",
+     "detalhe": "+0908010044 - OCI PROGRESSÃO DA AVALIAÇÃ…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304010367",
+   "nome": "RADIOTERAPIA DE CABEÇA E PESCOÇO",
+   "mudancas": [
+    {
+     "campo": "cid",
+     "rotulo": "CID",
+     "antes": "84 CID",
+     "agora": "85 CID",
+     "detalhe": "+C760"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020010",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE COLON AVANÇADO -1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020028",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE COLON AVANÇADO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020036",
+   "nome": "HORMONIOTERAPIA DO ADENOCARCINOMA DE ENDOMÉTRIO AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "127 itens",
+     "agora": "128 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA…, 0304020532 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020044",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE ESTÔMAGO AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020052",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE PÂNCREAS AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020095",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE RETO AVANÇADO -1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020109",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE RETO AVANÇADO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020117",
+   "nome": "QUIMIOTERAPIA DO APUDOMA/TUMOR NEUROENDÓCRINO AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020125",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE ADRENAL AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020176",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMÓIDE / ADENOCARCINOMA DE ESÔFAGO AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "25 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020508 - QUIMIOTERAPIA DO ADENOCARC…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020184",
+   "nome": "QUIMIOTERAPIA DA NEOPLASIA MALIGNA AVANÇADA DO COLO OU DO CORPO UTERINO AVANÇADO, VULVA E VAGINA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020192",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMÓIDE DE CANAL ANAL/ MARGEM ANAL AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020249",
+   "nome": "QUIMIOTERAPIA DE METÁSTASE DE ADENOCARCINOMA DE ORIGEM DESCONHECIDA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020257",
+   "nome": "QUIMIOTERAPIA DE METÁSTASE DE CARCINOMA EPIDERMÓIDE/CARCINOMA NEUROENDOCRINO DE ORIGEM DESCONHECIDA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020265",
+   "nome": "QUIMIOTERAPIA DE METÁSTASE DE NEOPLASIA MALIGNA INDIFERENCIADA DE ORIGEM DESCONHECIDA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020273",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA MALIGNA EPITELIAL DE OVÁRIO OU DE TUBA UTERINA AVANÇADA -1ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020281",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA MALIGNA EPITELIAL DE OVÁRIO OU DE TUBA UTERINA AVANÇADA - 2ª LINHA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020290",
+   "nome": "QUIMIOTERAPIA DE SARCOMA DE PARTES MOLES AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020303",
+   "nome": "QUIMIOTERAPIA DE SARCOMA ÓSSEO AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020320",
+   "nome": "QUIMIOTERAPIA DE TUMOR DO SISTEMA NERVOSO CENTRAL AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020362",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE TIREOIDE AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "24 itens",
+     "agora": "24 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020370",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE PÊNIS AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "21 itens",
+     "agora": "21 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020389",
+   "nome": "QUIMIOTERAPIA DE CARCINOMA DO FÍGADO OU DO TRATO BILIAR AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020397",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA MALIGNA DO TIMO AVANÇADA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304020400",
+   "nome": "QUIMIOTERAPIA DE CARCINOMA UROTELIAL AVANÇADO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030015",
+   "nome": "QUIMIOTERAPIA DE DOENÇA LINFOPROLIFERATIVA RARA -1ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "107 itens",
+     "agora": "108 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030023",
+   "nome": "QUIMIOTERAPIA DE DOENÇA LINFOPROLIFERATIVA RARA - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030031",
+   "nome": "QUIMIOTERAPIA DE DOENÇA MIELOPROLIFERATIVA RARA - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "105 itens",
+     "agora": "106 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030040",
+   "nome": "QUIMIOTERAPIA DE DOENÇA MIELOPROLIFERATIVA RARA - 2ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030066",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA LINFOCITICA CRONICA - 2ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "12 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030163",
+   "nome": "QUIMIOTERAPIA DE LINFOMA NÃO HODGKIN DE BAIXO GRAU DE MALIGNIDADE (1ª LINHA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "106 itens",
+     "agora": "107 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030171",
+   "nome": "QUIMIOTERAPIA DE LINFOMA NÃO HODGKIN DE BAIXO GRAU DE MALIGNIDADE - 2ªLINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "12 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030180",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA DE CÉLULAS PLASMÁTICAS - 1ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "105 itens",
+     "agora": "106 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030198",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA DE CÉLULAS PLASMÁTICAS - 2ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030201",
+   "nome": "QUIMIOTERAPIA DA TRICOLEUCEMIA - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "12 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030210",
+   "nome": "QUIMIOTERAPIA DE TRICOLEUCEMIA - 1ªLINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "12 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030252",
+   "nome": "QUIMIOTERAPIA DE MIELOMA MÚLTIPLO  1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "103 itens",
+     "agora": "104 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304030260",
+   "nome": "QUIMIOTERAPIA DE MIELOMA MÚLTIPLO  2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "12 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040010",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE RETO (PRÉVIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040045",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMÓIDE / ADENOCARCINOMA DO COLO UTERINO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040053",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMÓIDE DE RETO/ CANAL ANAL/ MARGEM ANAL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040070",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA DE BEXIGA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040100",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR INDIFERENCIADO DE CÉLULAS PEQUENAS (PRÉVIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "21 itens",
+     "agora": "21 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040118",
+   "nome": "QUIMIOTERAPIA DE CARCINOMA EPIDERMÓIDE / ADENOCARCINOMA DE ESÔFAGO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040126",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA EPIDERMOIDE DE VULVA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040134",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA MALIGNA EPITELIAL DE OVÁRIO OU DA TUBA UTERINA - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040142",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA MALIGNA EPITELIAL DE OVÁRIO OU DA TUBA UTERINA - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040150",
+   "nome": "QUIMIOTERAPIA DE OSTEOSSARCOMA - 2ª LINHA.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040169",
+   "nome": "QUIMIOTERAPIA DE SARCOMA ÓSSEO / OSTEOSSARCOMA - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040177",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE ESTÔMAGO (PRÉ-OPERATÓRIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304040207",
+   "nome": "HORMONIOTERAPIA PRÉVIA À RADIOTERAPIA EXTERNA DO ADENOCARCINOMA DE PRÓSTATA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "119 itens",
+     "agora": "120 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA…, 0304020532 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050016",
+   "nome": "QUIMIOTERAPIA INTRA-VESICAL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050024",
+   "nome": "QUIMIOTERAPIA DE ADENOCARCINOMA DE CÓLON",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050032",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE RETO (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050172",
+   "nome": "QUIMIOTERAPIA DO CARCINOMA PULMONAR DE CÉLULAS NÃO PEQUENAS (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050180",
+   "nome": "QUIMIOTERAPIA DE CARCINOMA PULMONAR INDIFERENCIADO DE CÉLULAS PEQUENAS (ADJUVANTE)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050202",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA MALIGNA EPITELIAL DE OVÁRIO OU DA TUBA UTERINA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "18 itens",
+     "agora": "18 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050210",
+   "nome": "QUIMIOTERAPIA DO OSTEOSSARCOMA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050229",
+   "nome": "QUIMIOTERAPIA DE SARCOMA DE PARTES MOLES DE EXTREMIDADE",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050253",
+   "nome": "QUIMIOTERAPIA DO ADENOCARCINOMA DE ESTÔMAGO (PÓS OPERATÓRIA)",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "22 itens",
+     "agora": "22 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050334",
+   "nome": "QUIMIOTERAPIA DE TUMOR DO ESTROMA GASTRO INTESTINAL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "15 itens",
+     "agora": "17 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0605010030 - MESILATO DE IMATINIBE 100 …, 0605010080 - MESILATO DE IMATINIBE 400 …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304050342",
+   "nome": "HORMONIOTERAPIA ADJUVANTE À RADIOTERAPIA EXTERNA DO ADENOCARCINOMA DE PRÓSTATA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "118 itens",
+     "agora": "119 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020516 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA…, 0304020532 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060070",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA AGUDA/ MIELODISPLASIA / LINFOMA DE BURKITT - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060089",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA AGUDA/ MIELODISPLASIA/LINFOMA LINFOBLÁSTICO/ LINFOMA DE BURKITT - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060097",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA AGUDA/ MIELODISPLASIA/ LINFOMA LINFOBLÁSTICO/ LINFOMA DE BURKITT 3ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060100",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA AGUDA/MIELODISPLASIA/ LINFOMA LINFOBLÁSTICO/ LINFOMA DE BURKITT - 4ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060119",
+   "nome": "QUIMIOTERAPIA DE LINFOMA NÃO HODGKIN GRAU INTERMEDIÁRIO OU ALTO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060127",
+   "nome": "QUIMIOTERAPIA DE LINFOMA NÃO HODGKIN GRAU INTERMEDIÁRIO OU ALTO - 3ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060135",
+   "nome": "QUIMIOTERAPIA DE LINFOMA NÃO HODGKIN DE GRAU DE MALIGNIDADE INTERMEDIÁRIO OU ALTO - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "14 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060151",
+   "nome": "QUIMIOTERAPIA DE TUMOR GERMINATIVO EXTRA-GONADAL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "25 itens",
+     "agora": "25 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060160",
+   "nome": "QUIMIOTERAPIA DE TUMOR GERMINATIVO DE OVÁRIO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "21 itens",
+     "agora": "21 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060178",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA TROFOBLÁSTICA GESTACIONAL - BAIXO RISCO",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060186",
+   "nome": "QUIMIOTERAPIA DE NEOPLASIA TROFOBLÁSTICA GESTACIONAL - CORIOCARCINOMA DE BAIXO RISCO PERSISTENTE / ALTO RISCO / RECIDIVA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "20 itens",
+     "agora": "20 itens",
+     "detalhe": "+0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060208",
+   "nome": "QUIMIOTERAPIA DE TUMOR GERMINATIVO DE TESTÍCULO - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060216",
+   "nome": "QUIMIOTERAPIA DE TUMOR GERMINATIVO DE TESTÍCULO - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "23 itens",
+     "agora": "23 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304030112 - QUIMIOTERAPIA DA LEUCEMIA …"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060232",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA LINFOIDE/LINFOBLÁSTICA AGUDA, LINFOMA LINFOBLÁSTICO, LEUCEMIA MIELOIDE AGUDA E LEUCEMIA PROMIELOCITICA AGUDA - 1ª LINHA - FASES TERAPÊUTICAS INICIAIS...",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304060240",
+   "nome": "QUIMIOTERAPIA DE LEUCEMIA LINFOIDE/LINFOBLÁSTICA AGUDA , LINFOMA LINFOBLÁSTICO, LEUCEMIA MIELOIDE AGUDA E LEUCEMIA PROMIELOCITICA AGUDA-1ª LINHA  FASE DE MANUTENÇÃO.",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "13 itens",
+     "agora": "13 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304070017",
+   "nome": "QUIMIOTERAPIA DE CANCER NA INFÂNCIA E ADOLESCÊNCIA - 1ª LINHA",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "38 itens",
+     "detalhe": "+0304020133 - QUIMIOTERAPIA DO CARCINOMA…, 0304020141 - QUIMIOTERAPIA DO CARCINOMA…, 0304020338 - HORMONIOTERAPIA DO CARCINO…, 0304020346 - HORMONIOTERAPIA DO CARCINO…, 0304020419 - POLIQUIMIOTERAPIA DO CARCI……"
+    }
+   ]
+  },
+  {
+   "codigo": "0304070025",
+   "nome": "QUIMIOTERAPIA DE CANCER NA INFÂNCIA E ADOLESCÊNCIA - 2ª LINHA",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "38 itens",
+     "detalhe": "+0304020133 - QUIMIOTERAPIA DO CARCINOMA…, 0304020141 - QUIMIOTERAPIA DO CARCINOMA…, 0304020338 - HORMONIOTERAPIA DO CARCINO…, 0304020346 - HORMONIOTERAPIA DO CARCINO…, 0304020419 - POLIQUIMIOTERAPIA DO CARCI……"
+    }
+   ]
+  },
+  {
+   "codigo": "0304070033",
+   "nome": "QUIMIOTERAPIA DE CÂNCER NA INFÂNCIA E ADOLESCÊNCIA - 4ª LINHA",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "38 itens",
+     "detalhe": "+0304020133 - QUIMIOTERAPIA DO CARCINOMA…, 0304020141 - QUIMIOTERAPIA DO CARCINOMA…, 0304020338 - HORMONIOTERAPIA DO CARCINO…, 0304020346 - HORMONIOTERAPIA DO CARCINO…, 0304020419 - POLIQUIMIOTERAPIA DO CARCI……"
+    }
+   ]
+  },
+  {
+   "codigo": "0304070041",
+   "nome": "QUIMIOTERAPIA DE CÂNCER NA INFÂNCIA E ADOLESCÊNCIA - 3ª LINHA",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "1 itens",
+     "agora": "38 itens",
+     "detalhe": "+0304020133 - QUIMIOTERAPIA DO CARCINOMA…, 0304020141 - QUIMIOTERAPIA DO CARCINOMA…, 0304020338 - HORMONIOTERAPIA DO CARCINO…, 0304020346 - HORMONIOTERAPIA DO CARCINO…, 0304020419 - POLIQUIMIOTERAPIA DO CARCI……"
+    }
+   ]
+  },
+  {
+   "codigo": "0304080055",
+   "nome": "QUIMIOTERAPIA INTRA-TECAL",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "63 itens",
+     "agora": "66 itens",
+     "detalhe": "+0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 0304020524 - QUIMIOTERAPIA DO CARCINOMA…, 0304020532 - QUIMIOTERAPIA DO CARCINOMA…, 0304020540 - QUIMIOTERAPIA DO CARCINOMA……; −0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA …, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0304080071",
+   "nome": "INIBIDOR DA OSTEÓLISE",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "58 itens",
+     "agora": "63 itens",
+     "detalhe": "+0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 0304020087 - QUIMIOTERAPIA DO CÂNCER DE…, 0304020214 - QUIMIOTERAPIA DO CARCINOMA…, 0304020230 - QUIMIOTERAPIA DO MELANOMA ……; −0304020060 - HORMONIOTERAPIA DO ADENOCA…, 0304020079 - HORMONIOTERAPIA DO ADENOCA…, 03…"
+    }
+   ]
+  },
+  {
+   "codigo": "0307020045",
+   "nome": "TRATAMENTO ENDODÔNTICO DE DENTE PERMANENTE BIRRADICULAR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0307020053",
+   "nome": "TRATAMENTO ENDODÔNTICO DE DENTE PERMANENTE COM TRÊS OU MAIS RAÍZES",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0307020061",
+   "nome": "TRATAMENTO ENDODÔNTICO DE DENTE PERMANENTE UNIRRADICULAR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0307040186",
+   "nome": "ESCANEAMENTO INTRAORAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0307040194",
+   "nome": "PLANEJAMENTO DE PRÓTESE DENTÁRIA E BUCOMAXILOFACIAL EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0405040210",
+   "nome": "REPOSICIONAMENTO DE LENTE INTRAOCULAR",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "3802 / 3803 / 3805 / 3806",
+     "agora": "3802 / 3803 / 3804 / 3805 / 3806",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0415010012",
+   "nome": "TRATAMENTO C/ CIRURGIAS MULTIPLAS",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "132 itens",
+     "agora": "132 itens",
+     "detalhe": "+0416010130 - PROSTATECTOMIA RADICAL EM …; −0416010130 - PROSTATOVESICULECTOMIA RAD…"
+    }
+   ]
+  },
+  {
+   "codigo": "0415020034",
+   "nome": "OUTROS PROCEDIMENTOS COM CIRURGIAS SEQUENCIAIS",
+   "mudancas": [
+    {
+     "campo": "incompativel",
+     "rotulo": "Incompatíveis",
+     "antes": "736 itens",
+     "agora": "736 itens",
+     "detalhe": "+0416010130 - PROSTATECTOMIA RADICAL EM …; −0416010130 - PROSTATOVESICULECTOMIA RAD…"
+    }
+   ]
+  },
+  {
+   "codigo": "0415020050",
+   "nome": "PROCEDIMENTOS SEQUENCIAIS EM ONCOLOGIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "91 itens",
+     "agora": "91 itens",
+     "detalhe": "+0416010130 - PROSTATECTOMIA RADICAL EM …; −0416010130 - PROSTATOVESICULECTOMIA RAD…"
+    }
+   ]
+  },
+  {
+   "codigo": "0416010130",
+   "nome": "PROSTATECTOMIA RADICAL EM ONCOLOGIA",
+   "mudancas": [
+    {
+     "campo": "nome",
+     "rotulo": "Nome",
+     "antes": "PROSTATOVESICULECTOMIA RADICAL EM ONCOLOGIA",
+     "agora": "PROSTATECTOMIA RADICAL EM ONCOLOGIA"
+    }
+   ]
+  },
+  {
+   "codigo": "0416020020",
+   "nome": "LINFADENECTOMIA PELVICA EM ONCOLOGIA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "14 itens",
+     "agora": "14 itens",
+     "detalhe": "+0416010130 - PROSTATECTOMIA RADICAL EM …; −0416010130 - PROSTATOVESICULECTOMIA RAD…"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070188",
+   "nome": "PRÓTESE TOTAL MAXILAR EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070196",
+   "nome": "PRÓTESE TOTAL MANDIBULAR EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070200",
+   "nome": "PRÓTESE PARCIAL MAXILAR REMOVÍVEL EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070218",
+   "nome": "PRÓTESE PARCIAL MANDIBULAR REMOVÍVEL EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070226",
+   "nome": "PRÓTESE PARCIAL REMOVÍVEL TEMPORÁRIA EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070234",
+   "nome": "PRÓTESES CORONÁRIAS/INTRARRADICULARES FIXAS/ADESIVAS/SOBRE IMPLANTE (POR ELEMENTO) EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0701070250",
+   "nome": "PLACA OCLUSAL EM FLUXO DIGITAL",
+   "mudancas": [
+    {
+     "campo": "habilitacao",
+     "rotulo": "Habilitação",
+     "antes": "",
+     "agora": "3804",
+     "detalhe": "+3804"
+    }
+   ]
+  },
+  {
+   "codigo": "0908010036",
+   "nome": "OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE SÍNDROME NEUROLÓGICA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "16 itens",
+     "agora": "17 itens",
+     "detalhe": "+0202080250 - EXAME MICOLÓGICO DIRETO"
+    }
+   ]
+  },
+  {
+   "codigo": "0908010044",
+   "nome": "OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE SÍNDROME NEUROLÓGICA",
+   "mudancas": [
+    {
+     "campo": "compativel",
+     "rotulo": "Compatíveis",
+     "antes": "12 itens",
+     "agora": "13 itens",
+     "detalhe": "+0301010307 - TELECONSULTA MÉDICA NA ATE…"
+    }
+   ]
+  }
+ ]
+}
